@@ -1,0 +1,108 @@
+========================================================================
+SYSTEM e-TOLL - OPŁATY DROGOWE W POLSCE (odrębny od SENT!)
+Ustawa z dnia 21 marca 1985 r. o drogach publicznych (art. 13-13k) +
+rozporządzenia wykonawcze Rady Ministrów / Ministra Infrastruktury
+Stan na dzień aktualizacji pliku: 20.08.2026
+Źródła: etoll.gov.pl, timocom.pl, koben.pl, uslugi.zmpd.pl (ZMPD),
+        kt-legaltrans.pl, dziennik.pl, onyxtms.com, flowtica.pl
+========================================================================
+
+UWAGA DLA MODELU AI: NIE MYLIĆ z systemem SENT (patrz Ustawa_SENT.txt) -
+to dwa różne systemy: eTOLL rozlicza OPŁATY ZA PRZEJAZD drogami
+płatnymi, SENT monitoruje CO i DOKĄD jest przewożone dla celów
+podatkowych. Mogą być obsługiwane tym samym urządzeniem pokładowym, ale
+to odrębne obowiązki prawne z odrębnymi karami.
+
+--- KOGO DOTYCZY OBOWIĄZEK ---
+Wnoszenie opłaty elektronicznej w systemie e-TOLL jest OBOWIĄZKOWE dla:
+- pojazdów samochodowych i zespołów pojazdów o DMC POWYŻEJ 3,5 TONY,
+- autobusów (niezależnie od DMC).
+Administratorem systemu jest Krajowa Administracja Skarbowa (KAS).
+System e-TOLL (oparty na GPS) całkowicie zastąpił poprzedni system
+viaTOLL (oparty na bramownicach radiowych).
+
+--- SIEĆ DRÓG PŁATNYCH I STAWKI (STAN NA 2026 - ZMIENIA SIĘ CO ROK/
+    KILKA MIESIĘCY, ZAWSZE WERYFIKUJ) ---
+- Od 1 stycznia 2026 r.: coroczna waloryzacja stawek opłaty elektronicznej
+  dla pojazdów ciężkich (na mocy obwieszczenia Ministra Infrastruktury,
+  art. 13ha ust. 4a ustawy o drogach publicznych).
+- Od 1 lutego 2026 r.: sieć dróg płatnych rozszerzona o ok. 645 km
+  nowych odcinków dróg krajowych (łącznie ok. 5 869-5 900 km sieci
+  płatnej w Polsce) ORAZ kolejna zmiana wysokości stawek (rozporządzenie
+  Rady Ministrów z 8 stycznia 2026 r.).
+- Planowane w 2026 r. w ramach dyrektywy Eurowinieta (2022/362):
+  dodatkowa opłata za emisję CO2 (obok istniejącej opłaty
+  infrastrukturalnej) - dla pojazdów starszych niż 6-letnie od 2026 r.
+- Aktualne stawki (PLN/km wg klasy drogi: A/S vs GP/G) SPRAWDZAJ zawsze
+  na etoll.gov.pl - publikowane jako osobne pliki/tabele przy każdej
+  zmianie.
+
+--- URZĄDZENIA DO ROZLICZANIA ---
+- OBU (On Board Unit) - dedykowane urządzenie montowane w pojeździe,
+  automatycznie przekazuje dane lokalizacyjne. Najczęściej wybierane
+  przez firmy transportowe (stabilność, mniejsze ryzyko awarii vs
+  aplikacja mobilna).
+- ZSL (Zewnętrzny System Lokalizacyjny) - integracja z istniejącymi
+  systemami telematycznymi/GPS floty - praktyczne rozwiązanie dla firm
+  już korzystających z monitoringu pojazdów.
+- Aplikacja mobilna e-TOLL PL - rozwiązanie dla rzadko korzystających z
+  płatnych dróg; RYZYKOWNE przy profesjonalnej skali (zależność od
+  telefonu, zasięgu, dyscypliny kierowcy - rozładowany telefon = brak
+  opłaty = kara).
+- ODPOWIEDZIALNOŚĆ za aktualność ustawień OBU/ZSL (kategoria pojazdu,
+  konfiguracja) leży PO STRONIE PRZEWOŹNIKA.
+
+--- TRYBY ROZLICZENIA ---
+- Konto PRZEDPŁACONE - doładowywane z góry, opłaty pobierane na bieżąco.
+- Konto z ODROCZONYM TERMINEM PŁATNOŚCI (płatność okresowa z
+  zabezpieczeniem) - wymaga ustanowienia zabezpieczenia (depozyt/gwarancja
+  bankowa). WAŻNE: gdy naliczone opłaty osiągną 99% ustanowionego
+  zabezpieczenia, tryb odroczonej płatności zostaje ZABLOKOWANY, a konto
+  automatycznie przekształca się w przedpłacone z saldem 0 zł - trzeba
+  regularnie weryfikować, czy kwota zabezpieczenia nadal wystarcza po
+  każdej podwyżce stawek (rosnące stawki = rosnąca wymagana kwota
+  zabezpieczenia).
+
+--- KARY (art. 13k ustawy o drogach publicznych) ---
+- Naruszenie obowiązku uiszczenia opłaty elektronicznej (brak rejestracji,
+  brak opłaty, wjazd na odcinek płatny bez wniesienia opłaty): kara
+  PIENIĘŻNA - orientacyjnie w widełkach OD 250 ZŁ (błędne dane/zaniżona
+  opłata) DO 1 500 ZŁ (całkowity brak opłaty/rejestracji) za naruszenie.
+  Różne źródła podają nieco różne progi (250-750 zł za błędne dane,
+  1 500 zł za brak opłaty) - DO POTWIERDZENIA w aktualnym tekście art.
+  13k przy konkretnej sprawie.
+- W ciągu doby może zostać nałożona TYLKO JEDNA kara za dane konkretne
+  naruszenie (nie mnoży się za każdy kilometr).
+- Dodatkowe podstawy kar: zakryte/nieczytelne tablice rejestracyjne,
+  tablice w niewłaściwym miejscu, nieprawidłowo funkcjonujący ZSL/OBU
+  lub aplikacja mobilna wraz z oprogramowaniem.
+- Kontrola: AUTOMATYCZNA (bramownice z kamerami i czujnikami, w tym
+  kontrola nocna, statyczna i dynamiczna do prędkości względnej ok.
+  250 km/h) oraz MANUALNA (funkcjonariusze GITD, Służba Celno-Skarbowa).
+
+--- AWARIE URZĄDZEŃ - SZCZEGÓLNE ZASADY ---
+Historycznie (do potwierdzenia aktualności w 2026): przy awarii GPS
+trwającej ponad 15 minut kierujący miał obowiązek zjechać z drogi
+płatnej lub skorzystać z parkingu. Rozważane/wprowadzane złagodzenia:
+możliwość kontynuacji jazdy mimo awarii z opłatą myta wg zadeklarowanej
+trasy w terminie do 3 dni, dla pojazdów uczestniczących w akcji
+ratowniczej, usuwaniu klęsk żywiołowych/awarii, przewożących określony
+ładunek (żywe zwierzęta, beton) lub autokarów z pasażerami - ZAWSZE
+zweryfikować aktualny stan tych przepisów przy konkretnej sprawie
+spornej, bo były przedmiotem zmian legislacyjnych.
+
+--- NIESPÓJNOŚCI Z DOKUMENTACJĄ PRZEWOZOWĄ ---
+Podczas kontroli ITD, brak zgodności między faktyczną trasą przejazdu,
+danymi zarejestrowanymi w e-TOLL a dokumentacją przewozową (list
+przewozowy CMR, zlecenie transportowe) może samodzielnie skutkować
+wszczęciem postępowania administracyjnego i karą - niezależnie od tego,
+czy sama opłata została uiszczona.
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+(1) Zawsze odróżniaj eTOLL (opłata za przejazd) od SENT (monitorowanie
+towaru) - to częste pomylenie w pytaniach użytkowników.
+(2) Przypominaj o obowiązku aktualizacji tras w systemie TMS/GPS firmy
+przy każdej zmianie sieci dróg płatnych (np. 1 lutego 2026) - to
+najczęstszy praktyczny błąd operacyjny prowadzący do kar.
+(3) Kwoty kar i stawki opłat traktuj jako priorytetowe do weryfikacji
+na żywo (rule 2 ze SKILL.md) - zmieniają się kilka razy w roku.

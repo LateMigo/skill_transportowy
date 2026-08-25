@@ -1,0 +1,162 @@
+========================================================================
+ADR - PRZEWÓZ TOWARÓW NIEBEZPIECZNYCH DROGĄ
+Umowa europejska ADR (Genewa, 30.09.1957, z późn. zm., aktualna wersja
+ADR 2025 obowiązująca wyłącznie od 1 lipca 2025 r.) + krajowa Ustawa z
+dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (tekst
+jedn. Dz.U. 2024 poz. 643)
+Stan na dzień aktualizacji pliku: 20.08.2026
+Źródła: lexlege.pl, gielda-odpadow.pl, tachospeed.pl, opensped.pl,
+        asl.pl, speedmag.pl, amg-trans.eu, terramar.pl, transport-manager.pl,
+        isap.sejm.gov.pl, prawo.pl
+========================================================================
+
+UWAGA DLA MODELU AI: ADR to osobny, obszerny reżim prawny (setki stron
+przepisów technicznych - klasyfikacja, opakowania, oznakowanie). Ten
+plik to wyciąg praktycznych zasad dla firmy transportowej, NIE substytut
+pełnego tekstu ADR. Umowa ADR jest nowelizowana CYKLICZNIE CO 2 LATA
+(kolejne wersje: 2023, 2025, 2027...) z 6-miesięcznym okresem
+przejściowym - zawsze sprawdź, która wersja aktualnie obowiązuje.
+
+--- PODSTAWA PRAWNA I ZAKRES ---
+- Umowa ADR (międzynarodowa) - reguluje klasyfikację, pakowanie,
+  oznakowanie, dokumentację i wymogi wobec pojazdów/kierowców w
+  transporcie DROGOWYM towarów niebezpiecznych.
+- Ustawa z 19.08.2011 r. o przewozie towarów niebezpiecznych (krajowa) -
+  określa zasady prowadzenia działalności, organy nadzoru i kary w
+  Polsce; wdraża i odsyła do ADR (drogowy), RID (kolej), ADN (żegluga
+  śródlądowa) - inne gałęzie transportu mają odrębne reżimy (ICAO-TI/IATA
+  dla lotniczego, IMDG dla morskiego) - NIE MIESZAĆ reżimów przy
+  przewozach multimodalnych, każdy odcinek trasy ocenia się wg
+  właściwej dla danego środka transportu umowy.
+- Nadzór w Polsce: ITD i Policja (kontrole drogowe), TDT (dozór
+  techniczny cystern/butli), Minister Infrastruktury (koordynacja).
+
+--- KLASYFIKACJA - 9 KLAS ADR ---
+Materiały niebezpieczne dzielą się na 9 klas głównych (z podklasami,
+łącznie ok. 13 kategorii), wg dominującego zagrożenia, np.:
+- Klasa 1: materiały i przedmioty wybuchowe.
+- Klasa 2: gazy (np. propan, butan, LPG, azot sprężony, amoniak
+  bezwodny).
+- Klasa 3: materiały ciekłe zapalne (benzyna, olej napędowy, farby,
+  aceton, alkohol etylowy).
+- Klasa 8: materiały żrące (kwas siarkowy, solny, wodorotlenek sodu,
+  akumulatory).
+- Klasa 9: różne materiały i przedmioty niebezpieczne (m.in. BATERIE
+  LITOWE, pojazdy elektryczne, azbest, suchy lód).
+Każdy towar ma czterocyfrowy numer UN (np. UN 1203 - benzyna, UN 3480 -
+baterie litowo-jonowe samodzielne, UN 3481 - baterie litowo-jonowe w
+sprzęcie) oraz grupę pakowania (I - duże zagrożenie, II - średnie,
+III - małe).
+
+--- BATERIE LITOWE - PRAKTYCZNIE NAJCZĘSTSZY PRZYPADEK W TSL ---
+Baterie litowo-jonowe/litowe podlegają klasie 9, numerom UN 3480/3481
+(oraz pokrewnym dla różnych konfiguracji). Kluczowe punkty:
+- Możliwy przewóz DO 333 KG baterii litowo-jonowych BEZ konieczności
+  posiadania przez kierowcę zaświadczenia o przeszkoleniu ADR (zwolnienie
+  ilościowe - do zweryfikowania dokładnych warunków tego zwolnienia w
+  aktualnej wersji ADR, ponieważ przepisy szczególne (Special Provisions
+  188, 230, 310, 636) bywają precyzowane przy każdej nowelizacji).
+  Special Provisions 188, 230, 310, 636 regulują szczegółowe wymogi
+  opakowania, oznakowania i State of Charge (stanu naładowania) dla
+  różnych konfiguracji baterii litowych.
+- Znaki starego typu dla małych baterii litowych mogły być używane do
+  2026 r. (zmiana wprowadzona ADR 2023) - do potwierdzenia, czy termin
+  ten już minął w momencie odpowiedzi.
+
+--- LIMITY ILOŚCIOWE - ZWOLNIENIA (uproszczenia dla małych ilości) ---
+- LQ (Limited Quantities / ilości ograniczone): dotyczy towarów w małych
+  opakowaniach wewnętrznych w kartonach (np. kosmetyki, lakiery, małe
+  baterie litowe), maks. do 30 kg w opakowaniu. Pojazd przewożący
+  powyżej 8 ton takich towarów (łącznie) musi być oznakowany białymi
+  rombami z czarnymi narożnikami.
+- EQ (Excepted Quantities / ilości wyłączone): bardzo małe ilości,
+  zwykle do celów laboratoryjnych - najdalej idące uproszczenie.
+- Limit "0" w tabeli ADR oznacza, że dany materiał NIE MOŻE być
+  przewożony w ŻADNEJ ilości bez specjalnego zezwolenia.
+Umiejętne korzystanie z tych zwolnień pozwala przewozić towary
+niebezpieczne mniejszymi pojazdami (busami) bez pełnego oznakowania i
+wyposażenia ADR, o ile limity punktowe/wagowe są zachowane.
+
+--- WYMAGANA DOKUMENTACJA ---
+- Dokument przewozowy ADR - wypełnia NADAWCA (może być zintegrowany z
+  listem CMR). Zawiera w ustalonej kolejności: numer UN, prawidłową
+  nazwę przewozową, numery nalepek, grupę pakowania, kod tunelowy,
+  liczbę i opis opakowań, ilość całkowitą, dane nadawcy/odbiorcy,
+  oświadczenie zgodności z ADR.
+- Instrukcja pisemna (4-stronicowy ujednolicony dokument) - dostarcza
+  PRZEWOŹNIK, musi znajdować się w kabinie PRZED rozpoczęciem przewozu;
+  zawiera procedury na wypadek wypadku (gaśnice, ewakuacja, pierwsza
+  pomoc, wyposażenie ochronne).
+- Zaświadczenie ADR kierowcy - świadectwo ukończenia kursu i zdania
+  egzaminu państwowego (przed komisją TDT w Polsce), ważne 5 lat,
+  w formie plastikowej karty. Kursy podstawowe (paczki/luz) i
+  specjalistyczne (cysterny, materiały wybuchowe, promieniotwórcze).
+- Zaświadczenie dopuszczenia pojazdu ADR (dla cystern i niektórych
+  kategorii pojazdów).
+
+--- PODZIAŁ ODPOWIEDZIALNOŚCI MIĘDZY UCZESTNIKAMI ---
+- NADAWCA: odpowiada za prawidłową klasyfikację substancji, dobór
+  opakowania, oznaczenia i przygotowanie dokumentacji (określa numer UN,
+  klasę zagrożenia, grupę pakowania).
+- PRZEWOŹNIK: musi zweryfikować KOMPLETNOŚĆ danych od nadawcy, ale NIE
+  MOŻE klasyfikować towaru za nadawcę. Odpowiada za sprawny środek
+  transportu, wyszkolony personel, zgodną trasę/operację.
+- ZAŁADOWCA/PAKUJĄCY: zgodność opakowań i mocowanie ładunku.
+- ODBIORCA: szybkie przyjęcie, usunięcie oznakowania po opróżnieniu.
+- DGSA (doradca ds. bezpieczeństwa przewozu towarów niebezpiecznych):
+  KAŻDE przedsiębiorstwo zajmujące się nadawaniem, pakowaniem,
+  załadunkiem lub przewozem towarów niebezpiecznych ma USTAWOWY
+  OBOWIĄZEK wyznaczenia takiego doradcy (nadzór nad zgodnością,
+  szkolenia, raporty powypadkowe).
+
+--- KARY (orientacyjne wg opracowań branżowych, DO WERYFIKACJI z
+    aktualnym załącznikiem do Ustawy o transporcie drogowym) ---
+- Mandat karny dla kierowcy: do 500 zł za wykroczenie (np. brak
+  dokumentu, brak znajomości instrukcji pisemnej) wg Załącznika nr 1
+  do Ustawy o transporcie drogowym.
+- Kary administracyjne dla przewoźnika/firmy wg Załącznika I do
+  rozporządzenia Komisji (UE) 2016/403 - orientacyjnie 500-10 000 zł w
+  zależności od wagi naruszenia (klasyfikacja: drobne/poważne/bardzo
+  poważne/najpoważniejsze naruszenie - NIN).
+- Najczęstsza przyczyna mandatów przy kontroli ITD: brak właściwych
+  gaśnic lub ich nieaktualna legalizacja.
+- Poważne naruszenie (np. brak dokumentu ADR, niewłaściwe oznakowanie
+  cysterny) kończy się natychmiastowym unieruchomieniem pojazdu i
+  wysoką karą administracyjną - zarówno dla przewoźnika, jak i dla
+  osoby zarządzającej transportem.
+
+--- NOWY FORMULARZ KONTROLI ITD (dyrektywa 2025/1801/UE) ---
+Polska musiała wdrożyć ujednolicone unijne procedury kontroli drogowej
+ADR (nowy formularz listy kontrolnej - tzw. "krokodylki" wręczane
+podczas kontroli, art. 99 i 101 ustawy) - termin wdrożenia: do 23
+czerwca 2026 r. Dla transportu kolejowego i żeglugi śródlądowej wzór
+formularza pozostaje bez zmian. W postępowaniach wszczętych przed
+wejściem w życie zmienionego rozporządzenia stosuje się przepisy
+dotychczasowe. Sprawdź bieżącym wyszukiwaniem, czy nowy formularz już
+obowiązuje w momencie odpowiedzi.
+
+--- PRZEWÓZ ODPADÓW NIEBEZPIECZNYCH (styk z BDO) ---
+Transport odpadów niebezpiecznych wymaga dodatkowo Karty Przekazania
+Odpadów (KPO) w systemie BDO. Odpowiedzialność za błędnie wypełnioną
+KPO (błędny kod odpadu, niewłaściwa masa) leży na PODMIOCIE
+WYSTAWIAJĄCYM KPO (wytwórcy odpadów), NIE na przewoźniku - ale
+przewoźnik odpowiada za posiadanie aktualnego potwierdzenia KPO i
+dostarczenie odpadów do wskazanego miejsca; brak KPO przy kierowcy to
+konsekwencje kontroli ITD lub WIOŚ dla przewoźnika. ADR 2025 rozszerzyło
+wyłączenie dla osób prywatnych przewożących odpady niebezpieczne z
+gospodarstwa domowego do punktu zbiórki (bez pełnych rygorów ADR).
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+(1) Przy każdym pytaniu o konkretny towar zawsze ustal: numer UN (jeśli
+znany) lub przynajmniej charakter substancji, żeby określić klasę i
+zastosować właściwe limity/zwolnienia - bez tego nie da się ocenić, czy
+transport w ogóle wymaga pełnego reżimu ADR.
+(2) Baterie litowe to najczęstszy praktyczny temat (e-commerce,
+elektronika) - zawsze pytaj o wagę całkowitą baterii w przesyłce
+(próg 333 kg dla zwolnienia ze świadectwa kierowcy) i sprawdź aktualność
+tego limitu.
+(3) Nigdy nie zakładaj, że mały bus/DMC do 3,5t jest zwolniony z ADR -
+przepisy ADR dotyczą rodzaju/ilości ładunku, nie DMC pojazdu (choć DMC
+ogranicza fizycznie ile towaru można załadować).
+(4) Zawsze przypominaj o obowiązkowym DGSA dla firm regularnie
+zajmujących się towarami niebezpiecznymi - to często pomijany wymóg.

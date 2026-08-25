@@ -1,0 +1,113 @@
+﻿========================================================================
+USTAWA z dnia 15 listopada 1984 r. - Prawo przewozowe
+(tekst jedn. Dz.U. z 2024 r. poz. 1262 - obwieszczenie Marszałka Sejmu
+z 19 sierpnia 2024 r.; zastąpił wcześniejszy tekst jedn. Dz.U. 2020
+poz. 8, do którego odsyłała poprzednia wersja tego pliku)
+ZMIANA PO OSTATNIEJ AKTUALIZACJI: aktualny adres publikacyjny ustawy to
+Dz.U. z 2024 r. poz. 1262 ORAZ z 2026 r. poz. 912. Ustawa z dnia
+11 czerwca 2026 r. o związku metropolitalnym w województwie pomorskim
+(Dz.U. 2026 poz. 912, ogłoszona 7.07.2026 r., weszła w życie
+31.07.2026 r.) znowelizowała Prawo przewozowe. Zmiany dotyczą wyłącznie
+PRZEWOZU OSÓB w publicznym transporcie zbiorowym (m.in. biletów i
+uprawnień organizatora metropolitalnego) - NIE zmieniają przepisów o
+przewozie rzeczy, czynnościach ładunkowych (art. 43), odpowiedzialności
+przewoźnika (art. 86) ani przedawnieniu (art. 77).
+Reguluje przewóz KRAJOWY osób i rzeczy (odpowiednik CMR dla przewozów
+niemiędzynarodowych) oraz uzupełniająco - kwestie nieuregulowane w CMR
+przy przewozach międzynarodowych z/do Polski w zakresie, w jakim CMR
+odsyła do prawa krajowego.
+Stan na dzień aktualizacji pliku: 20.08.2026
+Źródła: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001262
+        (tekst jednolity, Dz.U. 2024 poz. 1262)
+        https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20260000912/O/D20260912.pdf
+        (ustawa nowelizująca - Dz.U. 2026 poz. 912; weryfikacja 20.08.2026)
+        https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840530272
+        warta.pl, rpms.pl, kt-legaltrans.pl, infinitiis.pl,
+        poradniktransportowy.pl - opracowania prawnicze
+========================================================================
+
+UWAGA DLA MODELU AI: Ten plik zawiera potwierdzone z kilku źródeł
+przepisy dot. odpowiedzialności przewoźnika i czynności ładunkowych.
+CZĘŚĆ TEMATÓW (np. szczegółowe zasady rozliczania przestojów/demurrage,
+tryb i wysokość opłat dodatkowych za przestój) jest w praktyce regulowana
+GŁÓWNIE UMOWNIE (w zleceniu transportowym / umowie przewozu) oraz
+przepisami Kodeksu cywilnego o umowie przewozu (art. 774 i nast. k.c.),
+a NIE szczegółowym cennikiem w samej ustawie - jeśli pytanie dotyczy
+konkretnej stawki za przestój, ZAWSZE odsyłaj do treści konkretnego
+zlecenia/umowy przewozowej, a nie do stawki ustawowej, bo takiej
+uniwersalnej stawki ustawa nie przewiduje.
+
+--- CZYNNOŚCI ŁADUNKOWE (art. 43) ---
+Jeżeli umowa lub przepis szczególny nie stanowią inaczej, czynności
+ładunkowe należą odpowiednio do obowiązków NADAWCY (przy załadunku) lub
+ODBIORCY (przy rozładunku). Podmiot ten jest zobowiązany wykonywać je w
+sposób zapewniający przewóz przesyłki zgodnie z przepisami ruchu
+drogowego i przepisami o drogach publicznych, w szczególności
+NIEPOWODUJĄCY:
+- zagrożenia bezpieczeństwa ruchu drogowego,
+- przekroczenia dopuszczalnej masy całkowitej pojazdu,
+- przekroczenia dopuszczalnych nacisków osi.
+To kluczowy przepis przy sporach o odpowiedzialność za przeładowanie -
+patrz też Prawo_o_ruchu_drogowym.txt.
+
+--- ODPOWIEDZIALNOŚĆ PRZEWOŹNIKA ZA PRZESYŁKĘ (zasady ogólne, analogiczne
+    do CMR) ---
+Przewoźnik odpowiada za utratę, ubytek lub uszkodzenie przesyłki od
+momentu przyjęcia jej do przewozu do momentu wydania, a także za
+opóźnienie w przewozie, na zasadach zbliżonych do konwencji CMR
+(odpowiedzialność domniemana, możliwość zwolnienia się przy wykazaniu
+przyczyn niezależnych od przewoźnika: siła wyższa, wina osoby
+uprawnionej, właściwości naturalne towaru, niewłaściwe opakowanie itd.).
+
+--- OGRANICZENIE WYSOKOŚCI ODSZKODOWANIA - WYJĄTEK PRZY WINIE UMYŚLNEJ
+    (art. 86) ---
+Przewidziane w ustawie ograniczenia wysokości odszkodowania NIE MAJĄ
+ZASTOSOWANIA, jeżeli szkoda wynikła z WINY UMYŚLNEJ lub RAŻĄCEGO
+NIEDBALSTWA przewoźnika - analogicznie do art. 29 Konwencji CMR (patrz
+Konwencja_CMR.txt). W takim przypadku przewoźnik odpowiada bez
+ograniczenia kwotowego.
+
+--- PRZEDAWNIENIE ROSZCZEŃ (art. 77 ust. 1) ---
+Roszczenia dochodzone na podstawie Prawa przewozowego (przewóz krajowy)
+PRZEDAWNIAJĄ SIĘ Z UPŁYWEM 1 ROKU - analogicznie do terminu podstawowego
+z art. 32 Konwencji CMR w przewozie międzynarodowym. Dokładny moment
+rozpoczęcia biegu terminu (dzień dostawy / dzień, w którym przewóz miał
+być ukończony, itp.) - do zweryfikowania w konkretnym stanie faktycznym
+z pełnym tekstem art. 75-78 ustawy.
+
+--- LIST PRZEWOZOWY / DOKUMENTACJA ---
+Ustawa reguluje formę i treść listu przewozowego dla przewozów krajowych
+(rola analogiczna do listu CMR w przewozach międzynarodowych) - przy
+przewozie krajowym brak listu przewozowego nie unieważnia umowy
+przewozu, ale znacząco utrudnia dowodowo dochodzenie roszczeń.
+
+--- REKLAMACJE W PRZEWOZIE KRAJOWYM ---
+Ustawa przewiduje tryb reklamacyjny analogiczny do CMR (zgłoszenie
+zastrzeżeń przy odbiorze towaru dla szkód widocznych, krótki termin dla
+szkód ukrytych) - dokładne terminy do zweryfikowania w pełnym tekście
+rozdziału o reklamacjach (art. 75 i nast.), gdyż różnią się w
+szczegółach od terminów CMR (7/21 dni) i wymagają precyzyjnego
+sprawdzenia przy konkretnej sprawie.
+
+--- PRZESTOJE / DEMURRAGE - STATUS PRAWNY ---
+Prawo przewozowe NIE zawiera odrębnego, szczegółowego katalogu stawek
+za przestój (czas oczekiwania na załadunek/rozładunek ponad umówiony
+czas). W praktyce przestojowe jest:
+- elementem UMOWY PRZEWOZU / ZLECENIA TRANSPORTOWEGO (strony same
+  ustalają stawkę za godzinę/dobę przestoju i warunki jej naliczania),
+- w braku takich ustaleń - dochodzone na zasadach ogólnych
+  odszkodowawczych z Kodeksu cywilnego (szkoda rzeczywista + utracone
+  korzyści, art. 361 i nast. k.c.), co wymaga wykazania i udowodnienia
+  poniesionej straty.
+PRZY PYTANIU O KONKRETNĄ SPRAWĘ PRZESTOJOWĄ: zawsze najpierw sprawdź
+treść zlecenia transportowego / umowy - to ona rozstrzyga, nie ustawa.
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+(1) Zawsze odróżniaj przewóz krajowy (Prawo przewozowe) od
+międzynarodowego (CMR) - to determinuje właściwy akt prawny.
+(2) Przy pytaniach o przestoje / demurrage - najpierw pytaj o treść
+zlecenia/umowy, ustawa nie ma tu sztywnego cennika.
+(3) Ten plik ma mniej potwierdzonych konkretnych numerów artykułów niż
+pliki o CMR i 561/2006 - przy sprawie o wysokiej stawce finansowej
+zalecaj weryfikację pełnego tekstu ustawy na ISAP oraz konsultację
+prawną.

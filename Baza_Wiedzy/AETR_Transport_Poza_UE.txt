@@ -1,0 +1,143 @@
+========================================================================
+TRANSPORT POZA UE: UMOWA AETR, KARNET TIR I ZEZWOLENIA BILATERALNE
+(TURCJA, UKRAINA, BAŁKANY, KAZACHSTAN I INNE KRAJE TRZECIE)
+Umowa AETR (Genewa, 1.07.1970, tekst jedn. Dz.U. 2014 poz. 409) +
+Konwencja TIR (Genewa, 14.11.1975) + dwustronne umowy o międzynarodowych
+przewozach drogowych (np. Polska-Turcja, Ankara 1977)
+Stan na dzień aktualizacji pliku: 20.08.2026
+Źródła: eurowag.com, wyborkierowcow.pl, licencjetransportowe.com (AETR i
+        TIR), kt-legaltrans.pl, firetms.com, shiphub.pl, logifie.com,
+        pspdgdynia.pl (ZMPD - kontyngenty zezwoleń), asl.pl, sip.lex.pl
+========================================================================
+
+UWAGA DLA MODELU AI: Ten plik odpowiada na pytanie "co obowiązuje, gdy
+trasa wykracza poza UE/EOG" - np. Turcja, Ukraina, Bałkany spoza UE,
+Kazachstan, Wielka Brytania (formalnie poza UE od brexitu, ale w
+praktyce część odrębnych zasad). To TRZY NIEZALEŻNE reżimy działające
+RÓWNOLEGLE: (1) AETR - czas jazdy/odpoczynku, (2) TIR - uproszczona
+odprawa celna, (3) dwustronne zezwolenia/kontyngenty - prawo wjazdu.
+
+--- 1. UMOWA AETR - CZAS JAZDY I ODPOCZYNKU POZA UE ---
+AETR (Accord Européen sur les Transports Routiers / Umowa europejska
+dotycząca pracy załóg pojazdów wykonujących międzynarodowe przewozy
+drogowe) to odpowiednik rozporządzenia 561/2006 (patrz
+Czas_pracy_i_Rozporzadzenie_561.txt) dla tras WYKRACZAJĄCYCH poza
+UE/EOG i państwa-strony AETR spoza UE.
+
+KIEDY STOSOWAĆ AETR ZAMIAST 561/2006:
+AETR ma zastosowanie do międzynarodowego przewozu drogowego wykonywanego
+w CZĘŚCI POZA obszarem UE, EOG i państw będących stronami AETR spoza
+UE/EOG - w praktyce: gdy trasa faktycznie przebiega przez terytorium
+kraju spoza UE, który jest stroną AETR (np. Turcja, Ukraina, Serbia,
+Wielka Brytania, Kazachstan). Rozp. 561/2006 i AETR mają ZBLIŻONĄ, ale
+NIE IDENTYCZNĄ treść merytoryczną (limity czasu jazdy, przerwy,
+odpoczynki) - dla samego odcinka trasy na terytorium UE nadal
+obowiązuje 561/2006, a AETR "przejmuje" dla odcinka poza UE. W praktyce
+przewoźnicy międzynarodowi stosują zharmonizowane zasady (obie regulacje
+są w dużej mierze spójne po nowelizacjach AETR dostosowujących ją do
+561/2006), ale przy sporze/kontroli trzeba wskazać właściwą podstawę
+prawną dla konkretnego odcinka.
+
+STRONY UMOWY AETR (stan orientacyjny - lista bywa aktualizowana,
+zweryfikować przy konkretnym kraju): wszystkie państwa UE + m.in.
+Albania, Andora, Armenia, Azerbejdżan, Bośnia i Hercegowina, Kazachstan,
+Liechtenstein, Macedonia Północna, Mołdawia, Monako, Norwegia, Rosja,
+San Marino, Serbia, Szwajcaria, Tadżykistan, TURCJA, Turkmenistan,
+Ukraina, Uzbekistan, Wielka Brytania. Jeśli kraj docelowy/tranzytowy
+NIE jest stroną AETR ani UE/EOG - wymaga to odrębnej analizy (brak
+zharmonizowanych zasad czasu jazdy, ryzyko stosowania wyłącznie prawa
+krajowego tego kraju).
+
+--- 2. KARNET TIR - ODPRAWA CELNA POZA UE ---
+Konwencja TIR (Transport International Routier, Genewa 1975, ok. 78
+stron-sygnatariuszy wg stanu na 2026) umożliwia przewóz zaplombowanego
+ładunku przez WIELE granic na podstawie JEDNEGO dokumentu celnego, bez
+opłacania ceł/podatków na każdej granicy z osobna i bez pełnej kontroli
+celnej na każdym przejściu.
+- KIEDY POTRZEBNY: gdy trasa opuszcza strefę unijnej/wspólnej procedury
+  tranzytowej (T1/T2) - czyli przy przewozie do/z/przez kraje spoza tej
+  strefy. Komisja Europejska wskazuje, że TIR jest stosowany GŁÓWNIE z
+  sąsiadami wschodnimi spoza UE, Turcją i Bliskim Wschodem - Turcja to
+  jeden z korytarzy o NAJWYŻSZYM wykorzystaniu karnetu TIR.
+  Przewóz WEWNĄTRZ UE (między dwoma państwami członkowskimi) NIE
+  wymaga TIR - obowiązuje wtedy zwykła unijna procedura tranzytowa.
+- Karnet ma formę "woletów" (spiętych par dokumentów, po jednej parze
+  na każdą granicę celną) - dostępne w Polsce głównie karnety 6- i
+  14-woletowe.
+- eTIR - cyfrowa wersja systemu jest kierunkiem rozwoju na 2026 r. i
+  kolejne lata, ale papierowy karnet nadal funkcjonuje równolegle -
+  zweryfikować bieżącym wyszukiwaniem stopień wdrożenia eTIR na danej
+  trasie/w danym kraju w momencie odpowiedzi.
+- Wystawiane przez upoważnione organizacje krajowe (w Polsce - wg
+  wykazu UNECE/IRU).
+
+--- 3. ZEZWOLENIA BILATERALNE I KONTYNGENTY (TURCJA I INNE KRAJE
+    TRZECIE) ---
+Przewóz do/z/tranzytem przez kraje trzecie (spoza UE) często wymaga
+DODATKOWO (niezależnie od AETR i TIR) posiadania ZEZWOLENIA
+BILATERALNEGO wydawanego w ramach rocznego KONTYNGENTU uzgadnianego
+między Polską a danym krajem (lub w ramach wielostronnego systemu
+zezwoleń EKMT/ITF).
+- TURCJA: podstawa prawna - dwustronna umowa Polska-Turcja o
+  międzynarodowych przewozach drogowych (Ankara, 1977, Monitor Polski).
+  Kontyngent zezwoleń na "wjazd na pusto lub kraje trzecie" bywa
+  limitowany (przykładowo rzędu kilku tysięcy sztuk rocznie - DO
+  WERYFIKACJI aktualnej wielkości kontyngentu na dany rok, ustalanej
+  corocznie i zmiennej). Rozdziałem i limitami zezwoleń zajmuje się w
+  Polsce ZMPD (Zrzeszenie Międzynarodowych Przewoźników Drogowych) na
+  podstawie komunikatów Ministerstwa Infrastruktury.
+- Podobne systemy kontyngentowe obowiązują dla innych kierunków (np.
+  Kazachstan, Rosja, Białoruś - ten ostatni kierunek dodatkowo
+  obarczony sankcjami/ograniczeniami politycznymi, wymaga odrębnej,
+  bieżącej weryfikacji stanu prawnego przed każdym rejsem).
+- Brak wymaganego zezwolenia = nielegalny przewóz w danym kraju,
+  niezależnie od posiadania AETR i TIR - te trzy reżimy są od siebie
+  NIEZALEŻNE i wszystkie trzy muszą być spełnione łącznie tam, gdzie
+  mają zastosowanie.
+
+--- CŁA I DOKUMENTY POCHODZENIA - TURCJA (UNIA CELNA UE-TURCJA) ---
+Turcja pozostaje w unii celnej z UE dla większości towarów
+przemysłowych (dokument A.TR umożliwia bezcłowy przywóz) - ALE:
+produkty rolne, węgiel, surowce stalowe oraz wybrane przetworzone
+artykuły spożywcze są WYŁĄCZONE z tej unii celnej. Dla tych kategorii
+dokumentem preferencyjnym jest świadectwo pochodzenia EUR.1 lub
+oświadczenie eksportera na fakturze. Import wyrobów hutniczych/stali z
+Turcji wymaga dodatkowo monitorowania UNIJNYCH KONTYNGENTÓW
+TARYFOWYCH - przekroczenie limitu ilościowego skutkuje automatycznym
+cłem wyrównawczym. Odprawa celna wymaga aktywnego numeru EORI importera
+oraz rejestracji na PUESC PRZED fizycznym rozpoczęciem przewozu.
+
+--- OPŁATY DROGOWE W TURCJI ---
+Turcja ma własny, odrębny system opłat drogowych: HGS i OGS (elektroniczne
+systemy poboru opłat, analogiczne funkcjonalnie do polskiego eTOLL, ale
+całkowicie odrębne administracyjnie) - wymaga osobnej rejestracji/
+transpondera, NIE jest powiązany z polskim eTOLL ani żadnym unijnym
+systemem opłat. Stawki i zasady zmieniają się - zweryfikować bieżącym
+wyszukiwaniem przed planowaniem trasy.
+
+--- PRAKTYCZNA LISTA WYMOGÓW DLA TRASY DO TURCJI (przykładowo) ---
+1. Zezwolenie bilateralne PL-TR (z kontyngentu rocznego, o ile przewóz
+   nie mieści się w kategorii zwolnionej) - sprawdzić u ZMPD/aktualne
+   komunikaty MI.
+2. Karnet TIR (dla odcinka poza unijną procedurą tranzytową).
+3. Zgodność z AETR dla czasu jazdy/odpoczynku na odcinku tureckim
+   (obok 561/2006 dla odcinka unijnego).
+4. Dokumenty celne/pochodzenia towaru (A.TR lub EUR.1, zależnie od
+   kategorii towaru) + rejestracja EORI/PUESC.
+5. Transponder HGS/OGS dla opłat drogowych na terenie Turcji.
+6. Standardowe dokumenty przewozowe (CMR - konwencja CMR ma zastosowanie
+   również do Turcji jako strony konwencji - patrz Konwencja_CMR.txt).
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+(1) Przy pytaniu o transport poza UE zawsze rozbij odpowiedź na 3
+niezależne warstwy: czas pracy (AETR), odprawa celna (TIR), prawo
+wjazdu (zezwolenie bilateralne/kontyngent) - błędne jest myślenie, że
+spełnienie jednego z tych wymogów zwalnia z pozostałych.
+(2) Kontyngenty zezwoleń, stawki opłat drogowych (HGS/OGS) i unijne
+kontyngenty taryfowe zmieniają się corocznie/sezonowo - zawsze traktuj
+te liczby jako wymagające świeżej weryfikacji (rule 2 ze SKILL.md),
+ten plik ma z całego zestawu NAJMNIEJ stabilne dane liczbowe.
+(3) Dla krajów objętych sankcjami międzynarodowymi (np. Białoruś,
+Rosja) zawsze zalecaj weryfikację aktualnego stanu sankcji UE/Polski
+przed jakąkolwiek poradą operacyjną - to zmienia się częściej niż
+zwykłe przepisy transportowe i wykracza poza zakres tego pliku.

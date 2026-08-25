@@ -1,0 +1,139 @@
+========================================================================
+USTAWA z dnia 16 kwietnia 2004 r. o czasie pracy kierowców
+(tekst jedn. Dz.U. z 2026 r. poz. 477, z późn. zm.)
+Stan na dzień aktualizacji pliku: 20.08.2026
+Źródła: isap.sejm.gov.pl (DocDetails wdu20040920879), portalkadrowy.pl,
+        przepisy.gofin.pl, kt-legaltrans.pl, tachospeed.pl, transexpert.pl
+========================================================================
+
+UWAGA DLA MODELU AI: Ta ustawa NIE JEST tym samym co rozporządzenie (WE)
+561/2006 (patrz Czas_pracy_i_Rozporzadzenie_561.txt)! Rozróżnienie kluczowe:
+- 561/2006 reguluje wyłącznie CZAS PROWADZENIA POJAZDU, przerwy i
+  odpoczynki - egzekwowane głównie przez ITD, na podstawie danych z
+  tachografu.
+- Ta ustawa reguluje CZAS PRACY w szerokim sensie: dyżury, nadgodziny,
+  pracę w porze nocnej, urlopy, ewidencję czasu pracy - egzekwowane
+  głównie przez PIP (Państwową Inspekcję Pracy), na podstawie pełnej
+  dokumentacji kadrowej, nie tylko tachografu.
+Firma może mieć zerowe naruszenia 561/2006, a jednocześnie poważne
+naruszenia tej ustawy (np. brak rekompensaty nadgodzin) - to dwa
+niezależne reżimy kontrolne.
+
+--- ZAKRES PODMIOTOWY (art. 1-2) ---
+Ustawa dotyczy: kierowców zatrudnionych na podstawie stosunku pracy,
+przedsiębiorców osobiście prowadzących pojazd, oraz innych osób
+niezatrudnionych przez przewoźnika, wykonujących osobiście przewozy na
+jego rzecz (np. na umowie zlecenie). Od 1 stycznia (rok do zweryfikowania
+w aktualnym tekście) przepisy stosuje się odpowiednio także do
+motorniczych tramwajów.
+
+--- CZAS PRACY - DEFINICJA I WYŁĄCZENIA (art. 6-7) ---
+Do czasu pracy kierowcy WLICZA SIĘ m.in.: prowadzenie pojazdu, załadunek
+i rozładunek, nadzór nad pasażerami/towarem, czynności obsługowo-
+-administracyjne, codzienną konserwację pojazdu, inne prace zlecone przez
+pracodawcę.
+Do czasu pracy kierowcy NIE WLICZA SIĘ (art. 7):
+1) czasu dyżuru, jeżeli podczas dyżuru kierowca nie wykonywał pracy,
+2) nieusprawiedliwionych postojów w czasie prowadzenia pojazdu,
+3) dobowego nieprzerwanego odpoczynku,
+4) przerwy w pracy (o której mowa w przepisach dot. kierowców).
+
+--- DOBA ROZLICZENIOWA (art. 8) ---
+Dla celów rozliczania czasu pracy i ustalania prawa do nadgodzin, przez
+"dobę" rozumie się 24 kolejne godziny, poczynając od godziny, w której
+kierowca rozpoczyna pracę zgodnie z obowiązującym go rozkładem czasu
+pracy.
+
+--- NORMY OGÓLNE CZASU PRACY ---
+Podstawowa norma: czas pracy kierowcy nie może przekraczać 8 godzin na
+dobę i przeciętnie 40 godzin w przeciętnie pięciodniowym tygodniu pracy,
+w przyjętym okresie rozliczeniowym nieprzekraczającym 4 miesięcy (zasada
+ogólna zbieżna z Kodeksem pracy, art. 129 § 1 k.p.). Nadgodziny rozliczane
+są na zasadach Kodeksu pracy (ustawa nie reguluje tego wyczerpująco -
+w zakresie nieuregulowanym stosuje się Kodeks pracy wprost, w tym
+rekompensatę nadgodzin, pracę w niedziele/święta).
+
+--- PORA NOCNA - DEFINICJA SPECJALNA DLA KIEROWCÓW (art. 2 pkt 6a) ---
+UWAGA: dla kierowców obowiązuje INNA definicja pory nocnej niż ogólna z
+Kodeksu pracy (tam: 8 godzin między 21:00 a 7:00). Dla celów USTALANIA
+CZASU PRACY kierowców pora nocna to okres CZTERECH GODZIN pomiędzy
+00:00 a 07:00 (pracodawca może tę porę doprecyzować w wewnętrznych
+przepisach, ale w ramach tego przedziału). Ta definicja stosuje się
+WYŁĄCZNIE do celów ustalania czasu pracy - do naliczania DODATKU za
+pracę w nocy nadal stosuje się ogólną 8-godzinną porę nocną z Kodeksu
+pracy (art. 1517 k.p.). To rozróżnienie bywa mylone i jest częstym
+źródłem błędów przy kontroli PIP.
+
+--- LIMIT CZASU PRACY W PORZE NOCNEJ (art. 21) ---
+Jeżeli praca jest wykonywana w porze nocnej przez co najmniej 4 godziny,
+czas pracy kierowcy NIE MOŻE PRZEKRACZAĆ 10 GODZIN w danej dobie
+(między dwoma kolejnymi okresami odpoczynku dziennego, albo dziennego
+i tygodniowego). Ograniczenie dotyczy zarówno pracy planowanej, jak i
+sytuacji, gdy praca w porze nocnej wystąpiła nieplanowo (stanowisko PIP).
+Naruszenie tego limitu (np. polecenie pracy przez 18-19 godzin) to
+poważne naruszenie przepisów o czasie pracy, zagrożone karą przy
+kontroli PIP.
+
+--- WYJĄTKI OD NIEKTÓRYCH PRZEPISÓW (art. 22) ---
+Przepisy art. 12 ust. 2-3, art. 13, art. 21 oraz art. 24 pkt 2 NIE MAJĄ
+zastosowania do kierowców prowadzących pojazdy wymienione w art. 29
+ustawy oraz w art. 4 rozporządzenia 3820/85/EWG (obecnie odpowiednik
+wyłączeń z art. 3 i 13 rozp. 561/2006 - patrz
+Czas_pracy_i_Rozporzadzenie_561.txt).
+
+--- UKŁADY ZBIOROWE (art. 23) ---
+W zakresie norm czasu pracy, obowiązkowych przerw na odpoczynek oraz
+odpoczynku dobowego/tygodniowego, układy zbiorowe pracy MOGĄ przewidywać
+WYŻSZE normy minimalne oraz NIŻSZE normy maksymalne niż ustawa (tylko
+korzystniej dla kierowcy, nigdy odwrotnie).
+
+--- OBOWIĄZKI PRACODAWCY (art. 24) ---
+Pracodawca obowiązany jest m.in.:
+1) poinformować kierowców o obowiązujących ich przepisach z zakresu
+   czasu pracy, w sposób przyjęty u danego pracodawcy,
+2) prowadzić ewidencję czasu pracy.
+
+--- EWIDENCJA CZASU PRACY - ZAKRES ---
+Ewidencja czasu pracy musi obejmować: liczbę przepracowanych godzin,
+godzinę rozpoczęcia i zakończenia pracy, liczbę godzin w porze nocnej,
+liczbę nadgodzin, dni wolne (z tytułem ich udzielenia), liczbę godzin
+dyżuru wraz z godzinami rozpoczęcia/zakończenia (ze wskazaniem, czy
+dyżur pełniony był w domu), rodzaj i wymiar zwolnień/nieobecności - z
+uwzględnieniem: zapisów na wykresówkach, wydruków z karty kierowcy i
+tachografu cyfrowego, plików pobranych z karty kierowcy/tachografu,
+innych dokumentów potwierdzających czas pracy, lub rejestrów opartych
+na tych dokumentach.
+Dla pracowników objętych zadaniowym czasem pracy oraz otrzymujących
+ryczałt za nadgodziny/porę nocną - godzin pracy się nie ewidencjonuje,
+ale prowadzi się indywidualne karty ewidencji nieobecności.
+
+--- LIKWIDACJA PODRÓŻY SŁUŻBOWEJ DLA PRZEWOZÓW MIĘDZYNARODOWYCH (art. 21b,
+    wprowadzony Pakietem Mobilności) ---
+Kierowca wykonujący zadania służbowe w ramach MIĘDZYNARODOWYCH przewozów
+drogowych NIE JEST w podróży służbowej w rozumieniu art. 77(5) § 1
+Kodeksu pracy. Podróżą służbową w rozumieniu tej ustawy pozostaje
+wyłącznie zadanie służbowe wykonywane w ramach przewozów KRAJOWYCH.
+Konsekwencja: dla przewozów międzynarodowych nie stosuje się już diet
+i ryczałtów na zasadach klasycznej podróży służbowej - te kwestie
+reguluje obecnie system delegowania kierowców (patrz
+Pakiet_Mobilnosci_Delegowanie_Kierowcow.txt).
+
+--- POWIĄZANIE Z INNYMI AKTAMI ---
+- Czas jazdy, przerwy, odpoczynki (elementy egzekwowane przez ITD na
+  podstawie tachografu): rozp. 561/2006 - patrz
+  Czas_pracy_i_Rozporzadzenie_561.txt.
+- Poza UE/EOG: Umowa AETR - patrz AETR_Transport_Poza_UE.txt.
+- Delegowanie i wynagrodzenie minimalne za granicą: patrz
+  Pakiet_Mobilnosci_Delegowanie_Kierowcow.txt.
+- W zakresie nieuregulowanym (nadgodziny, praca w niedziele/święta,
+  urlopy) stosuje się wprost Kodeks pracy.
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+Przy pytaniach o "czas pracy kierowcy" zawsze doprecyzuj, czy chodzi o
+CZAS JAZDY (→ rozp. 561/2006, kontrola ITD, dane z tachografu) czy o
+CZAS PRACY w szerokim sensie (dyżury, nadgodziny, pora nocna → ta
+ustawa, kontrola PIP, pełna dokumentacja kadrowa) - to dwa różne reżimy
+z różnymi organami kontrolnymi i różną dokumentacją dowodową. Pamiętaj
+o odrębnej, węższej definicji pory nocnej dla kierowców (00:00-07:00,
+4h) używanej wyłącznie do limitu 10h/dobę, odróżnianej od ogólnej pory
+nocnej z Kodeksu pracy (21:00-7:00) używanej do naliczania dodatku.

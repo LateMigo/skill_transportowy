@@ -1,0 +1,167 @@
+﻿========================================================================
+ROZPORZĄDZENIE (WE) NR 561/2006 PARLAMENTU EUROPEJSKIEGO I RADY
+z dnia 15 marca 2006 r. w sprawie harmonizacji niektórych przepisów
+socjalnych odnoszących się do transportu drogowego
+Tekst skonsolidowany (zmieniony m.in. rozp. 2020/1054 - Pakiet Mobilności,
+oraz rozp. 2024/1258)
+Stan na dzień aktualizacji pliku: 24.08.2026
+Źródła: https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:02006R0561-20241231
+        https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:32006R0561
+        https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62020CJ0541
+        (wyrok TSUE (wielka izba) z 4.10.2024 r., sprawy połączone
+        C-541/20 - C-555/20 - stwierdzenie nieważności obowiązku powrotu
+        POJAZDU do bazy co 8 tygodni)
+========================================================================
+
+UWAGA DLA MODELU AI: To jest ustrukturyzowany wyciąg kluczowych, praktycznych
+norm tego rozporządzenia (nie pełny tekst prawny). Przy sprawach spornych lub
+przy cytowaniu w dokumentach formalnych ZAWSZE zalecaj weryfikację pełnego
+tekstu na EUR-Lex pod adresem podanym wyżej, bo tekst konsolidowany jest
+regularnie aktualizowany.
+
+--- ZAKRES STOSOWANIA (art. 2-3) ---
+Rozporządzenie stosuje się do przewozu drogowego rzeczy pojazdami o
+dopuszczalnej masie całkowitej (łącznie z przyczepą/naczepą) przekraczającej
+3,5 tony oraz do przewozu osób pojazdami przystosowanymi do przewozu więcej
+niż 9 osób (łącznie z kierowcą).
+WAŻNE (Pakiet Mobilności): od 1 lipca 2026 r. zakres rozszerza się na
+pojazdy o DMC od 2,5 t do 3,5 t w MIĘDZYNARODOWYM zarobkowym transporcie
+rzeczy oraz w kabotażu (patrz plik Rozporzadzenie_165_2014.txt - wymóg
+tachografu G2V2 dla tej kategorii).
+
+--- NORMY CZASU PROWADZENIA POJAZDU (art. 6) ---
+- Dzienny czas prowadzenia pojazdu: maksymalnie 9 godzin.
+  Może być wydłużony do 10 godzin, ale nie więcej niż 2 razy w tygodniu.
+- Tygodniowy czas prowadzenia pojazdu: maksymalnie 56 godzin
+  (i nie może przekroczyć łącznego czasu pracy dozwolonego przez
+  dyrektywę 2002/15/WE - przeciętnie 48h/tydz., maks. 60h w pojedynczym
+  tygodniu przy rozliczeniu 4-miesięcznym).
+- Czas prowadzenia pojazdu w ciągu dwóch kolejnych tygodni: maksymalnie
+  90 godzin.
+- Zasady stosuje się również do jazdy w państwach trzecich (poza UE).
+
+--- PRZERWY (art. 7) ---
+Po 4,5 godziny prowadzenia pojazdu kierowca musi zrobić nieprzerwaną
+przerwę co najmniej 45 minut, chyba że rozpoczyna okres odpoczynku.
+Przerwę tę można podzielić na dwie części w ramach tego okresu jazdy:
+- pierwsza część: co najmniej 15 minut,
+- druga część: co najmniej 30 minut,
+przy czym druga część musi być umieszczona na koniec okresu (przed
+przekroczeniem 4,5h łącznej jazdy).
+
+--- OKRESY ODPOCZYNKU (art. 8) ---
+Odpoczynek dzienny:
+- standardowo co najmniej 11 nieprzerwanych godzin w ciągu 24h,
+- może być skrócony do min. 9 godzin, maksymalnie 3 razy między dwoma
+  tygodniowymi okresami odpoczynku (bez rekompensaty),
+- odpoczynek dzienny może być dzielony: 3h + 9h (łącznie 12h) - opcja
+  "dzielonego" odpoczynku dziennego.
+W załodze kilkuosobowej (co najmniej 2 kierowców): każdy kierowca musi
+mieć odpoczynek dzienny co najmniej 9 godzin w ciągu każdego 30-godzinnego
+okresu.
+
+Odpoczynek tygodniowy:
+- regularny: co najmniej 45 nieprzerwanych godzin,
+- skrócony: może być skrócony do min. 24 godzin, ale wtedy różnica
+  (rekompensata) musi zostać "odebrana" jednym ciągiem przed końcem
+  3. tygodnia następującego po tygodniu, w którym miał miejsce skrócony
+  odpoczynek, dołączona do innego okresu odpoczynku trwającego min. 9h.
+- W ciągu dwóch kolejnych tygodni kierowca musi wykorzystać co najmniej
+  dwa regularne tygodniowe okresy odpoczynku LUB jeden regularny + jeden
+  skrócony (z rekompensatą) - z zastrzeżeniem limitów wprowadzonych przez
+  Pakiet Mobilności (rozp. 2020/1054): w każdym okresie 4 kolejnych
+  tygodni kierowca musi wykorzystać co najmniej dwa regularne tygodniowe
+  okresy odpoczynku LUB jeden regularny i jeden skrócony co najmniej
+  24h (rekompensowany).
+- KLUCZOWA ZASADA (Pakiet Mobilności, art. 8 ust. 8): regularny
+  tygodniowy okres odpoczynku (45h+) oraz każdy tygodniowy odpoczynek
+  dłuższy niż 45h wykorzystywany jako rekompensata NIE MOŻE być
+  odbierany w kabinie pojazdu. Musi być spędzony w miejscu wyposażonym
+  w odpowiednie zaplecze noclegowe i sanitarne (dostosowane do płci) -
+  albo w miejscu zamieszkania kierowcy, albo w innym miejscu wybranym
+  przez kierowcę. Koszty noclegu poza pojazdem pokrywa pracodawca.
+  ZA NARUSZENIE TEJ ZASADY GROŻĄ WYSOKIE KARY zarówno dla kierowcy jak
+  i przewoźnika (patrz Ustawa_o_transporcie_drogowym.txt).
+- POWRÓT KIEROWCY (art. 8 ust. 8a) - obowiązek odrębny od powrotu
+  pojazdu i często z nim mylony podczas kontroli: przedsiębiorstwo musi
+  tak organizować pracę kierowcy, aby w każdym okresie 4 KOLEJNYCH
+  TYGODNI mógł on wrócić do centrum operacyjnego pracodawcy (zwyczajowej
+  bazy, w państwie siedziby pracodawcy) albo do swojego miejsca
+  zamieszkania i wykorzystać tam co najmniej jeden regularny tygodniowy
+  odpoczynek lub odpoczynek powyżej 45h wykorzystywany jako rekompensata.
+  Jeżeli kierowca wykorzystał DWA KOLEJNE SKRÓCONE odpoczynki tygodniowe,
+  powrót musi nastąpić już PRZED rozpoczęciem odpoczynku rekompensującego
+  (powyżej 45h) - praktycznie po 3 tygodniach.
+- POWRÓT POJAZDU - OBOWIĄZEK UCHYLONY, NIE EGZEKWOWAĆ: obowiązek
+  powrotu POJAZDU do bazy w kraju siedziby co najmniej raz na 8
+  KOLEJNYCH TYGODNI (art. 5 ust. 1 lit. b rozp. (WE) nr 1071/2009 w
+  brzmieniu nadanym Pakietem Mobilności) został STWIERDZONY NIEWAŻNYM
+  wyrokiem TSUE (wielka izba) z 4 października 2024 r. w sprawach
+  połączonych C-541/20 - C-555/20. Trybunał uznał, że prawodawca unijny
+  nie wykazał proporcjonalności tego środka (brak oceny skutków).
+  Przepis jest nieważny ZE SKUTKIEM OD DNIA PRZYJĘCIA aktu (15.07.2020),
+  a nie od daty wyroku. PRAKTYCZNIE: przewoźnik nie musi dokumentować
+  powrotu pojazdu, a ITD nie może z tego tytułu nakładać kary (dawniej
+  2 000 zł). UWAGA NA CZĘSTY BŁĄD: uchylenie dotyczy WYŁĄCZNIE powrotu
+  POJAZDU - obowiązek powrotu KIEROWCY co 4 tygodnie (art. 8 ust. 8a
+  rozp. 561/2006, opisany wyżej) POZOSTAJE W PEŁNI W MOCY; TSUE
+  wyraźnie oddalił skargi w tym zakresie.
+
+--- WYNAGRODZENIE A BEZPIECZEŃSTWO (art. 10) ---
+Zakaz wypłacania kierowcom wynagrodzenia powiązanego z przebytą
+odległością lub ilością przewiezionego towaru, jeśli mogłoby to
+zagrażać bezpieczeństwu ruchu drogowego lub zachęcać do naruszania
+rozporządzenia (tzw. zakaz "wynagrodzenia akordowego" premiującego
+łamanie norm czasu pracy).
+
+--- WYJĄTKI (art. 3, 13) ---
+Rozporządzenie nie ma zastosowania m.in. do: pojazdów używanych do
+przewozu osób w ramach regularnych przewozów na trasach do 50 km,
+pojazdów o maks. dopuszczalnej prędkości do 40 km/h, pojazdów sił
+zbrojnych/obrony cywilnej/straży pożarnej/policji, pojazdów używanych
+w stanach nadzwyczajnych, pojazdów specjalistycznych używanych
+wyłącznie do celów medycznych, pojazdów używanych do przewozu zwierząt
+z gospodarstw na lokalne rynki i odwrotnie (promień do 100 km) i innych
+wymienionych w art. 13 (państwa członkowskie mogą stosować niektóre
+z tych wyjątków fakultatywnie - warto zweryfikować krajowe rozporządzenie
+wykonawcze).
+
+--- KONTROLA I ODPOWIEDZIALNOŚĆ PRZEDSIĘBIORSTWA (art. 10 ust. 2-3) ---
+Przedsiębiorstwo transportowe organizuje pracę kierowców w taki sposób,
+aby mogli oni przestrzegać rozporządzenia. Przedsiębiorstwo ponosi
+odpowiedzialność za naruszenia popełnione przez kierowców, nawet jeśli
+naruszenie miało miejsce na terytorium innego państwa członkowskiego
+lub państwa trzeciego.
+
+--- CO ZMIENIŁO ROZPORZĄDZENIE (UE) 2024/1258 (od 22 maja 2024 r.) ---
+- Uelastycznienie przerw oraz odpoczynków dziennych i tygodniowych w
+  OKAZJONALNYM PRZEWOZIE OSÓB (autokary, wycieczki) - krajowym i
+  międzynarodowym. NIE dotyczy przewozu rzeczy.
+- FORMULARZ PODRÓŻY: do czasu udostępnienia wersji cyfrowej kierowca
+  wykonujący okazjonalny przewóz osób musi wozić w pojeździe papierowe
+  lub elektroniczne kopie wypełnionych formularzy podróży obejmujące
+  POPRZEDNIE 56 DNI (do 30.12.2024 r. obowiązywało 28 dni). Komisja ma
+  ocenić możliwość cyfryzacji formularza do 31 grudnia 2026 r.
+- Państwo członkowskie może upoważnić swoje organy do nałożenia kary na
+  przedsiębiorstwo lub kierowcę za naruszenie rozporządzenia 165/2014
+  (tachografy) wykryte na jego terytorium, NAWET jeśli naruszenie
+  popełniono w innym państwie członkowskim lub w państwie trzecim.
+
+--- POWIĄZANIE Z INNYMI AKTAMI ---
+- Kontrola przestrzegania: dyrektywa 2006/22/WE (minimalne warunki
+  kontroli), krajowo egzekwowana przez ITD/PIP.
+- Wykaz i wysokość kar w Polsce: patrz Ustawa_o_transporcie_drogowym.txt
+  (załączniki nr 1, 3, 4) oraz rozporządzenie Komisji (UE) 2016/403
+  (klasyfikacja wagi naruszeń: najpoważniejsze/bardzo poważne/poważne).
+- Rejestracja czasu pracy: rozporządzenie (UE) nr 165/2014 (tachografy) -
+  patrz Rozporzadzenie_165_2014.txt.
+- Krajowa ustawa uzupełniająca: ustawa z dnia 16 kwietnia 2004 r.
+  o czasie pracy kierowców (reguluje m.in. czas pracy niezwiązany z
+  prowadzeniem pojazdu, dyżury, pracę w porze nocnej).
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+Przy każdym pytaniu o konkretną kwotę kary za naruszenie norm 561/2006,
+NIE SZACOWAĆ - odesłać do dokładnej tabeli w załączniku nr 3 do Ustawy
+o transporcie drogowym (plik Ustawa_o_transporcie_drogowym.txt) i przy
+wątpliwości zalecić weryfikację aktualnego stanu prawnego (live search),
+ponieważ stawki bywały zmieniane, w tym istotnie podwyższane w 2025/2026.

@@ -1,0 +1,139 @@
+========================================================================
+KABOTAŻ - PRZEPISY UNIJNE I KRAJOWE (NIEMCY, FRANCJA, AUSTRIA I INNE)
+Rozporządzenie (WE) nr 1072/2009 Parlamentu Europejskiego i Rady +
+krajowe przepisy wdrażające/sankcyjne poszczególnych państw (niemiecki
+GüKG, francuski Kodeks Pracy/Loi Macron, austriacki LSD-BG)
+Stan na dzień aktualizacji pliku: 20.08.2026
+Źródła: prawnicytransportu.pl, amg-trans.eu, edutransport.pl,
+        autocentrum.pl, efl.pl, rydzowski.pl, jazdaprawna.pl,
+        bwtsystem.pl, mawogroup.pl, poradniktransportowy.pl
+========================================================================
+
+UWAGA DLA MODELU AI: Kabotaż to obszar, gdzie ZASADA UNIJNA (limit
+"3 w 7 dni") jest identyczna we wszystkich krajach UE, ale EGZEKWOWANIE
+i KARY są ustalane KRAJOWO i różnią się drastycznie. Nie wystarczy znać
+regułę unijną - trzeba znać przepisy konkretnego kraju kontroli.
+
+--- DEFINICJA (rozp. (WE) 1072/2009, art. 2 pkt 6) ---
+Kabotaż = "krajowy zarobkowy przewóz wykonywany tymczasowo w
+przyjmującym państwie członkowskim" przez przewoźnika zarejestrowanego
+w innym państwie UE/EFTA, niemającego w kraju wykonania przewozu ani
+siedziby, ani oddziału.
+
+--- ZASADA UNIJNA "3 W 7 DNI" + COOLING-OFF ---
+- Po wjeździe z ładunkiem w ramach przewozu MIĘDZYNARODOWEGO i jego
+  CAŁKOWITYM rozładunku, przewoźnik może wykonać MAKSYMALNIE 3 OPERACJE
+  KABOTAŻOWE w danym państwie członkowskim.
+- Ostatni rozładunek kabotażowy musi nastąpić w ciągu 7 DNI od ostatniego
+  rozładunku wynikającego z przewozu międzynarodowego.
+- Kabotaż wykonuje się TYM SAMYM POJAZDEM (w zespole pojazdów - tym
+  samym pojazdem silnikowym), którym wykonano przewóz międzynarodowy.
+- Po zakończeniu cyklu 3 operacji obowiązuje 4-DNIOWA KARENCJA
+  (cooling-off) - w tym czasie TEN SAM POJAZD nie może wykonywać kolejnego
+  kabotażu w TYM SAMYM kraju. Karencja jest PRZYPISANA DO POJAZDU (nie
+  do kierowcy ani firmy) - inny pojazd tej samej firmy MOŻE w tym czasie
+  wykonywać kabotaż w danym kraju; podmiany kierowcy NIE skracają
+  karencji.
+- Alternatywnie: możliwy jest jeden przewóz kabotażowy w KAŻDYM państwie
+  członkowskim, pod warunkiem dokonania tylko jednego przewozu na
+  państwo w ciągu 3 dni od pustego wjazdu do tego państwa (drugi
+  wariant limitu wg rozp. 1072/2009) - odrębny od głównego wariantu
+  "3 w 7".
+
+--- WYMAGANA DOKUMENTACJA W KABINIE ---
+- List przewozowy CMR dla poprzedzającego przewozu MIĘDZYNARODOWEGO
+  (dowód wjazdu z ładunkiem).
+- Kompletne, kolejne listy przewozowe CMR dla KAŻDEGO pojedynczego
+  przewozu kabotażowego wykonanego w danym kraju.
+- Dane przewoźnika (nazwa, adres, podpis) i numer rejestracyjny pojazdu
+  na dokumentach przewozowych.
+UWAGA: braki w samej dokumentacji (np. brak podpisu/nazwy przewoźnika,
+brak numeru rejestracyjnego) stanowią ODRĘBNE naruszenie, NAWET JEŚLI
+sam limit "3 w 7" był materialnie zachowany - to częsty błąd
+prowadzący do kary mimo formalnie legalnego kabotażu.
+
+--- NIEMCY (organ: BALM, dawniej BAG) ---
+- Kara dla PRZEWOŹNIKA za złamanie limitów kabotażu (np. przekroczenie
+  liczby operacji, naruszenie cooling-off) wg niemieckiej ustawy o
+  transporcie drogowym (GüKG): TYPOWO OK. 1 000 EUR za pierwsze
+  naruszenie, DO 5 000 EUR w poważniejszych przypadkach (inne źródła
+  podają zbiorczo widełki do 100 000 EUR przy connected/systemowych
+  naruszeniach dokumentacyjnych - rozbieżność do wyjaśnienia per
+  przypadek, prawdopodobnie zależna od skali/liczby naruszeń
+  stwierdzonych łącznie).
+- ZLECENIODAWCA (spedytor) świadomie korzystający z nielegalnego
+  kabotażu: kara do 20 000 EUR.
+- KIEROWCA: mandat zwykle symboliczny, rzędu ok. 100 EUR.
+- Osobno: delegowanie/MiLoG (płaca minimalna 2026: ok. 13,90 EUR/h) -
+  brak/błędne zgłoszenie IMI: kara do 30 000 EUR (§23 AEntG) - patrz
+  Pakiet_Mobilnosci_Delegowanie_Kierowcow.txt.
+- Kontrole prowadzi niemiecka służba celna (Finanzkontrolle
+  Schwarzarbeit, FKS) - regularne na autostradach i w portach.
+
+--- FRANCJA (organy: DREAL, Żandarmeria, francuska Inspekcja Pracy) ---
+- Kara za nielegalny kabotaż: DO 15 000 EUR - jedna z najwyższych w UE.
+- Możliwe UNIERUCHOMIENIE POJAZDU na parkingu depozytowym do czasu
+  wyjaśnienia sprawy lub wpłaty kaucji.
+- Przy recydywie/rażących naruszeniach: możliwa kara pozbawienia
+  wolności dla zarządzającego transportem.
+- Brak wymaganych dokumentów podczas kontroli: mandat do 1 500 EUR.
+- SIPSI (system krajowy, ODRĘBNY od IMI): do 1 lipca 2026 r. Francja
+  wymagała RÓWNOLEGLE zgłoszenia w krajowym systemie SIPSI dla
+  kabotażu/cross-trade/transportu bilateralnego pojazdami PONIŻEJ 3,5 t
+  (art. L.1262-2-1, R.1263-3, R1331-2 francuskiego Kodeksu Pracy) -
+  obowiązek reprezentanta na terenie Francji. Kary SIPSI: 750 EUR za
+  brak zgłoszenia, 4 000 EUR za brak reprezentanta i kompletu
+  dokumentacji (podwojenie przy recydywie). Nowe zasady Pakietu
+  Mobilności dla pojazdów do 3,5 t wchodzą w życie dopiero w LIPCU
+  2026 r. - DO WERYFIKACJI, czy po tej dacie SIPSI został
+  zastąpiony/uzupełniony przez IMI dla tej kategorii pojazdów.
+- Rozliczanie płacy minimalnej we Francji wymaga uwzględnienia UKŁADU
+  ZBIOROWEGO (dodatki za nocną pracę, nadgodziny, amplitudy) - NIE
+  wystarczy sama stawka godzinowa jak w modelu niemieckim.
+
+--- AUSTRIA (ustawa LSD-BG od 2017 r.) ---
+- Wymaga wypłacania kierowcom zagranicznym wykonującym kabotaż płacy
+  RÓWNEJ austriackiej płacy minimalnej w transporcie.
+- Za zaniżenie płacy więcej niż 3 pracownikom jednocześnie: możliwy
+  ZAKAZ KABOTAŻU w Austrii na co najmniej 1 ROK; złamanie zakazu -
+  grzywna 2 000-20 000 EUR.
+- Brak wymaganych zgłoszeń/dokumentów płacowych w kabotażu: kara do
+  20 000 EUR.
+
+--- BUSY DO 3,5 T DMC A KABOTAŻ ---
+Po zmianach unijnych (Pakiet Mobilności) przewozy busami o DMC powyżej
+2,5 t podlegają tym samym wymogom licencyjnym i limitom kabotażowym co
+pojazdy ciężkie. Francja dodatkowo wymaga zgłoszenia kierowców busów w
+SIPSI jako pracowników delegowanych przy kabotażu, jeśli dotyczy ich
+płaca minimalna. Kontrole busów są rzadsze niż tirów, ale rosną,
+zwłaszcza w regionach przygranicznych i na południu Francji.
+
+--- WSPÓLNE MECHANIZMY UNIJNE ---
+- ERRU (europejski rejestr przewoźników drogowych) - kraje UE wymieniają
+  się informacjami o poważnych naruszeniach; historia wykroczeń
+  "podróżuje" z przewoźnikiem między krajami i jest widoczna przy
+  kolejnych kontrolach.
+- Sankcja podstawowa za rażące/systemowe naruszenia: odebranie licencji
+  na wykonywanie międzynarodowych przewozów w ramach Wspólnoty.
+- Niektóre kraje (Francja, Belgia) prowadzą również kontrole biurowe/
+  dokumentacyjne w siedzibie przewoźnika, nie tylko na drodze.
+
+--- POWIĄZANIE Z INNYMI AKTAMI ---
+- Delegowanie i wynagrodzenie minimalne (IMI, A1): patrz
+  Pakiet_Mobilnosci_Delegowanie_Kierowcow.txt.
+- List przewozowy CMR jako dowód legalności kabotażu: patrz
+  Konwencja_CMR.txt.
+- Licencja wspólnotowa i kary krajowe (polska strona): patrz
+  Ustawa_o_transporcie_drogowym.txt.
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+(1) Zawsze pytaj o KRAJ wykonania kabotażu - zasada unijna "3 w 7" jest
+wspólna, ale kary i dodatkowe obowiązki (SIPSI, LSD-BG, MiLoG) są
+skrajnie różne per kraj.
+(2) Zawsze przypominaj o karencji przypisanej do POJAZDU, nie do
+kierowcy - to częsty błąd operacyjny (próba obejścia limitu przez
+podmianę kierowcy nie działa).
+(3) Kwoty kar oznaczaj jako wymagające weryfikacji na bieżąco (rule 2
+ze SKILL.md) - przepisy krajowe (zwłaszcza francuskie i niemieckie)
+bywają nowelizowane niezależnie od unijnego kalendarza Pakietu
+Mobilności.

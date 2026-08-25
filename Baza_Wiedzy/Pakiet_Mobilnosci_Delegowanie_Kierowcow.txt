@@ -1,0 +1,159 @@
+========================================================================
+PAKIET MOBILNOŚCI - DELEGOWANIE KIEROWCÓW W TRANSPORCIE DROGOWYM
+(dyrektywa (UE) 2020/1057 + rozp. (UE) 2020/1054 + rozp. (UE) 2020/1055
++ krajowe przepisy wdrażające, w tym art. 21b Ustawy o czasie pracy
+kierowców)
+Stan na dzień aktualizacji pliku: 24.08.2026
+Źródła: driversjob.pl, cordos.pl, poradnikprzedsiebiorcy.pl, tckancelaria.eu,
+        idealogistyka.pl, kt-legaltrans.pl, ewicenter.pl, ds4t.pl,
+        infor.pl (System IMI), parp.gov.pl
+        https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62020CJ0541
+        (wyrok TSUE (wielka izba) z 4.10.2024 r., sprawy połączone
+        C-541/20 - C-555/20 - stwierdzenie nieważności obowiązku powrotu
+        POJAZDU do bazy co 8 tygodni)
+========================================================================
+
+UWAGA DLA MODELU AI: To jeden z najkosztowniejszych obszarów compliance
+w transporcie międzynarodowym - kary sięgają dziesiątek/setek tysięcy
+euro za pojedyncze naruszenie. Stawki minimalnego wynagrodzenia w krajach
+"host" oraz kary za brak zgłoszeń ZMIENIAJĄ SIĘ co roku (waloryzacja) -
+ZAWSZE zweryfikuj aktualną stawkę przed jakimkolwiek wyliczeniem
+finansowym dla konkretnej trasy.
+
+--- KIEDY WYSTĘPUJE "DELEGOWANIE" KIEROWCY ---
+Delegowanie w rozumieniu dyrektywy 2020/1057 występuje, gdy kierowca
+zatrudniony w jednym państwie UE wykonuje pracę (przewóz) na terytorium
+INNEGO państwa członkowskiego. Trzy kategorie operacji transportowych
+z RÓŻNYMI zasadami:
+1) Przewozy DWUSTRONNE/BILATERALNE (z/do kraju siedziby przewoźnika,
+   plus maks. 2 dodatkowe operacje załadunku/rozładunku) - WYŁĄCZONE
+   z zasad delegowania.
+2) TRANZYT (przejazd bez załadunku/rozładunku) - wyłączony.
+3) KABOTAŻ i CROSS-TRADE (przerzuty między dwoma krajami przez
+   przewoźnika niemającego siedziby w żadnym z nich) - W PEŁNI PODLEGAJĄ
+   zasadom delegowania: zgłoszenie IMI + wynagrodzenie kraju wykonania
+   pracy.
+
+--- SYSTEM IMI (Internal Market Information System) ---
+Od 2 lutego 2022 r. przewoźnik ma obowiązek zgłaszać do systemu IMI
+(a dokładnie do Portalu zgłoszeń delegowania połączonego z IMI) każde
+wykonanie kabotażu lub cross-trade - PRZED rozpoczęciem delegowania.
+Zgłoszenie jest elektroniczne, w standardowym wielojęzycznym formularzu.
+Kierowca musi mieć w pojeździe (może być w formie elektronicznej):
+- kopię zgłoszenia delegowania (z kodem QR zawierającym dane dla służb
+  kontrolnych),
+- umowę, dokument CMR,
+- zapisy tachografu z symbolami krajów, w których kierowca przebywał.
+Na żądanie organu kontrolnego w kraju delegowania, przewoźnik może
+zostać wezwany (za pośrednictwem platformy) do przedstawienia
+dodatkowych dokumentów (pasek wynagrodzenia, dowód wypłaty, umowa) -
+ustawowy termin na wykonanie tego obowiązku to 8 tygodni.
+
+--- MINIMALNE WYNAGRODZENIE W KRAJU "HOST" ---
+Od 2 lutego 2022 r. kierowca wykonujący delegowanie (kabotaż/cross-trade)
+musi otrzymać wynagrodzenie NIE NIŻSZE niż minimalne wynagrodzenie
+obowiązujące w kraju, w którym faktycznie wykonuje pracę - a NIE tylko
+wynagrodzenie z polskiej umowy. Jeśli polskie wynagrodzenie jest niższe
+niż wymagana suma za dany okres, pracodawca musi WYRÓWNAĆ różnicę.
+Diet i ryczałtów za nocleg NIE MOŻNA już wliczać do podstawy porównania
+z płacą minimalną kraju host (zmiana istotna względem stanu sprzed
+Pakietu Mobilności).
+
+Orientacyjne stawki minimalne za godzinę pracy w 2026 r. (DO WERYFIKACJI
+przy każdym użyciu - waloryzowane rocznie, różnią się metodą wyliczenia
+per kraj):
+- Niemcy: ok. 13,90 EUR/h (od 1.01.2026, prosta stawka godzinowa - model
+  MiLoG).
+- Francja: ok. 12,31 EUR/h (SMIC, podniesiony od 1.06.2026) - UWAGA:
+  Francja wymaga dodatkowo uwzględnienia układu zbiorowego (dodatki za
+  pracę w nocy, nadgodziny, amplitudy) - rozliczenie "po niemiecku"
+  (sama stawka godzinowa) we Francji jest BŁĘDEM i może kosztować
+  przewoźnika nawet kilkaset tysięcy EUR kary przy rozliczeniu floty.
+- Belgia: ok. 16,64 EUR/h.
+- Polska (referencyjnie, dla porównań płacowych krajowych): minimalne
+  wynagrodzenie od 1.01.2026 - 4806 zł brutto / 31,40 zł brutto/h.
+Te stawki NALEŻY zweryfikować bieżącym wyszukiwaniem przed każdym
+wyliczeniem dla konkretnej trasy - zmieniają się co najmniej raz w roku,
+często częściej dla poszczególnych krajów.
+
+--- KARY ZA BRAK/BŁĘDNE ZGŁOSZENIE IMI LUB BŁĘDNE WYNAGRODZENIE
+    (orientacyjne, do weryfikacji per kraj i data) ---
+- Polska: brak zgłoszenia delegacji w IMI lub błędy w zgłoszeniu -
+  kara do 5 000 zł. Projektowana ustawa o delegowaniu kierowców
+  przewiduje też karę 3 000 zł za odmowę przedstawienia dokumentów
+  wobec PIP (organu właściwego w Polsce dla tych spraw).
+- Niemcy: brak/błędne zgłoszenie IMI - kara do 30 000 EUR (§23 AEntG).
+  Za naruszenia przepisów płacowych (zaniżone wynagrodzenie) - kary
+  mogą sięgać nawet 500 000 EUR w skrajnych przypadkach.
+- Francja: kara karna do 3 750 EUR za brak deklaracji na pokładzie
+  pojazdu + kara administracyjna do 4 000 EUR za kierowcę (przy
+  recydywie kary te mogą ulec podwojeniu). Za naruszenia płacowe:
+  do 4 000 EUR za pracownika, przy recydywie do 8 000 EUR. NIEZALEŻNIE
+  od IMI, Francja do 1 lipca 2026 r. wymagała RÓWNIEŻ zgłoszenia w
+  krajowym systemie SIPSI dla pojazdów do 3,5 t (przepisy Pakietu
+  Mobilności dla lekkich pojazdów wchodzą w życie dopiero od lipca
+  2026 r.) - do zweryfikowania, czy po tej dacie SIPSI nadal jest
+  wymagany równolegle z IMI, czy został zastąpiony.
+- Austria: dumping socjalny (ustawa LSD-BG) - kara 2 000-20 000 EUR za
+  brak zgłoszeń/dokumentów płacowych; przy zaniżeniu płacy więcej niż
+  3 pracownikom jednocześnie - możliwy zakaz kabotażu w Austrii na co
+  najmniej rok.
+
+--- POWRÓT POJAZDU DO BAZY - OBOWIĄZEK UCHYLONY (art. 5 ust. 1 lit. b
+    rozp. (WE) nr 1071/2009, wprowadzony rozp. (UE) 2020/1055) ---
+Obowiązek powrotu POJAZDU do jednego z centrów operacyjnych
+przedsiębiorstwa CO NAJMNIEJ RAZ NA 8 TYGODNI (którego celem było
+ograniczenie działalności firm typu "skrzynka pocztowa") został
+STWIERDZONY NIEWAŻNYM wyrokiem TSUE (wielka izba) z 4 października
+2024 r. w sprawach połączonych C-541/20 - C-555/20. Powodem było
+niewykazanie proporcjonalności środka przez Parlament i Radę (brak
+oceny skutków). Nieważność działa OD DNIA PRZYJĘCIA aktu (15.07.2020).
+PRAKTYCZNIE: nie ma obowiązku dokumentowania powrotu pojazdu, a ITD nie
+może z tego tytułu nakładać kary (dawniej 2 000 zł).
+UWAGA - DWA RÓŻNE OBOWIĄZKI, NIE MYLIĆ: uchylenie dotyczy WYŁĄCZNIE
+powrotu POJAZDU. Obowiązek powrotu KIEROWCY co 4 tygodnie (art. 8
+ust. 8a rozp. 561/2006 - patrz Czas_pracy_i_Rozporzadzenie_561.txt)
+POZOSTAJE W PEŁNI W MOCY i jest nadal kontrolowany.
+Uwaga redakcyjna: wcześniejsza wersja tego pliku błędnie wiązała powrót
+POJAZDU z art. 8 ust. 8a rozp. 561/2006 - ten przepis dotyczy powrotu
+KIEROWCY; powrót pojazdu regulowało rozp. 1071/2009.
+
+--- ROZSZERZENIE NA POJAZDY DO 3,5 T DMC (od maja/czerwca 2022 i dalej) ---
+Przewoźnicy zarządzający flotą do 3,5 t DMC objęci są od 2022 r.
+obowiązkiem: posiadania zezwolenia na wykonywanie zawodu przewoźnika,
+gwarancji finansowej (1 800 EUR na pierwszy pojazd + 900 EUR na każdy
+kolejny), spełnienia wymogu dobrej reputacji, posiadania siedziby firmy
+oraz przepisami o kabotażu i dostępie do rynku międzynarodowego -
+analogicznie jak pojazdy ciężkie. Od 1 lipca 2026 r. dochodzi dodatkowo
+obowiązek montażu tachografu G2V2 dla pojazdów 2,5-3,5 t w transporcie
+międzynarodowym (patrz Rozporzadzenie_165_2014.txt).
+
+--- ZUS I "DIETY WIRTUALNE" (2026) ---
+Prognozowane przeciętne miesięczne wynagrodzenie brutto w gospodarce
+narodowej na 2026 r. wynosi 9 420 zł (wzrost z 8 673 zł w 2025 r.) -
+kwota ta wpływa pośrednio na rozliczanie podstawy składek ZUS kierowców
+wykonujących przewozy międzynarodowe, ale NIE jest sztywną, obowiązkową
+podstawą wymiaru składek dla każdego kierowcy - wysokość składki zależy
+od faktycznych przychodów i czasu spędzonego za granicą. Ten temat
+bywa źródłem nieporozumień - traktować ostrożnie i przy wątpliwościach
+odsyłać do biura rachunkowego/doradcy ZUS.
+
+--- POWIĄZANIE Z INNYMI AKTAMI ---
+- Kabotaż (limity operacyjne 3/7 dni + cooling-off): patrz
+  Kabotaz_Przepisy_Krajowe.txt.
+- Krajowa ustawa o czasie pracy kierowców (likwidacja podróży służbowej
+  dla przewozów międzynarodowych): patrz
+  Ustawa_o_czasie_pracy_kierowcow.txt, art. 21b.
+- Tachograf G2V2 jako narzędzie kontroli granic/delegowania: patrz
+  Rozporzadzenie_165_2014.txt.
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+(1) Zawsze odróżniaj przewóz DWUSTRONNY (poza delegowaniem) od
+KABOTAŻU/CROSS-TRADE (pełne delegowanie) - to fundamentalna różnica
+determinująca wszystkie dalsze obowiązki.
+(2) Nigdy nie zakładaj, że stawka minimalna z jednego kraju (np.
+niemiecki model prostej stawki godzinowej) da się zastosować w innym
+kraju (zwłaszcza Francja z jej układami zbiorowymi) - to kosztowny błąd.
+(3) Stawki minimalne i kwoty kar zawsze oznaczaj jako wymagające
+weryfikacji na bieżąco (rule 2 ze SKILL.md) - to jeden z najszybciej
+zmieniających się obszarów w całym zestawie plików.

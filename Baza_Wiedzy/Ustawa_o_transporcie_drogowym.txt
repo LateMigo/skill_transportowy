@@ -1,0 +1,111 @@
+﻿========================================================================
+USTAWA z dnia 6 września 2001 r. o transporcie drogowym
+(tekst jedn. Dz.U. z 2025 r. poz. 1490, z późn. zm.)
+Stan na dzień aktualizacji pliku: 19.08.2026
+Źródła: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=wdu20011251371
+        https://lexlege.pl/ustawa-o-transporcie-drogowym/
+        https://www.gov.pl/attachment/ed506579-5ff8-4423-92ae-36d11a7586a8
+        (wybrane przepisy + załączniki, Ministerstwo Infrastruktury)
+========================================================================
+
+UWAGA DLA MODELU AI - KRYTYCZNE: Ta ustawa (a konkretnie jej załączniki
+nr 1-4) to GŁÓWNE ŹRÓDŁO TARYFIKATORA KAR ITD. Kwoty w załącznikach są
+NAJCZĘŚCIEJ NOWELIZOWANYM elementem prawa transportowego w Polsce - w
+2025/2026 niektóre stawki wzrosły nawet dziesięciokrotnie (nowelizacja
+dot. pośrednictwa w przewozie osób). NIGDY nie podawaj kwoty kary z
+pamięci bez zastrzeżenia, że stan może się zmienić - zalecaj zawsze
+weryfikację aktualnego tekstu jednolitego na ISAP lub w LexLege przed
+podjęciem decyzji finansowej.
+
+--- STRUKTURA KAR (Rozdział 11: Przepisy karne i kary administracyjne) ---
+
+1) Art. 92 - GRZYWNY dla KIEROWCY (odpowiedzialność wykroczeniowa):
+   Kierujący wykonujący przewóz drogowy z naruszeniem obowiązków lub
+   warunków przewozu drogowego podlega karze grzywny w wysokości DO
+   2 000 ZŁOTYCH. Szczegółowy wykaz naruszeń i wysokość grzywien za
+   poszczególne naruszenia - załącznik nr 1 do ustawy (odwołuje się do
+   klasyfikacji wagi naruszeń wg tabel w załączniku I do rozporządzenia
+   Komisji (UE) 2016/403). Orzekanie w trybie Kodeksu postępowania w
+   sprawach o wykroczenia.
+
+2) Art. 92a - KARY PIENIĘŻNE dla PODMIOTU (przewoźnika/przedsiębiorcy) -
+   odpowiedzialność administracyjna:
+   Podmiot wykonujący przewóz drogowy lub inne czynności związane z tym
+   przewozem, naruszający obowiązki lub warunki przewozu drogowego,
+   podlega karze pieniężnej OD 50 ZŁ DO 12 000 ZŁ za każde naruszenie
+   (zasada ogólna wg załącznika nr 3).
+   Szczególne, dużo wyższe stawki:
+   - przedsiębiorca prowadzący POŚREDNICTWO PRZY PRZEWOZIE OSÓB z
+     naruszeniem obowiązków: kara OD 5 000 ZŁ DO 1 000 000 ZŁ za każde
+     naruszenie (m.in. działanie bez licencji, przekazanie zlecenia
+     nieuprawnionemu przewoźnikowi, brak/nieprawidłowe prowadzenie
+     rejestru zleceń i współpracujących przewoźników).
+   - zlecenie przewozu podmiotowi nieuprawnionemu - kara do 200 000 zł
+     (nowelizacja 2025).
+   - suma kar za naruszenia stwierdzone PODCZAS JEDNEJ KONTROLI
+     DROGOWEJ ograniczona jest do 12 000 zł (limit łączny); przy
+     kontroli w siedzibie firmy limit zależy od wielkości przedsiębiorstwa.
+   Jeśli czyn wyczerpuje jednocześnie znamiona wykroczenia/przestępstwa
+   i naruszenia z zał. nr 3/4 - wobec osoby fizycznej stosuje się
+   WYŁĄCZNIE przepisy o odpowiedzialności administracyjnej (nie
+   podwójne karanie).
+   Przepis stosuje się też do naruszeń popełnionych ZA GRANICĄ, chyba
+   że sprawca wykaże, że została już nałożona kara za to naruszenie.
+
+3) NAJWYŻSZA POJEDYNCZA STAWKA WEDŁUG DOSTĘPNYCH ŹRÓDEŁ (2026): 12 000 zł
+   za wykonywanie przewozów drogowych BEZ zezwolenia na wykonywanie
+   zawodu przewoźnika drogowego i bez wymaganej licencji (innej niż
+   wspólnotowa), oraz za wykonywanie transportu bez licencji
+   wspólnotowej.
+
+--- KATEGORIE ZAŁĄCZNIKÓW ---
+   - Załącznik nr 1: wykaz naruszeń i grzywien dla KIEROWCY (art. 92).
+   - Załącznik nr 2: wykaz naruszeń i grzywien - inna kategoria
+     (dotycząca m.in. przekroczeń DMC/nacisku osi - patrz też plik
+     Prawo_o_ruchu_drogowym.txt).
+   - Załącznik nr 3: wykaz naruszeń i kar pieniężnych dla PODMIOTU
+     wykonującego przewóz drogowy (lp. 1-9) oraz dla PRZEWOŹNIKA
+     DROGOWEGO w związku z wykonywaniem transportu drogowego (lp. 10).
+     TO JEST KLUCZOWY ZAŁĄCZNIK DO SPRAWDZANIA KONKRETNYCH KWOT KAR
+     m.in. za: naruszenia norm czasu jazdy/odpoczynku (rozp. 561/2006),
+     naruszenia dot. tachografu (rozp. 165/2014), przeciążenie pojazdu,
+     brak/nieprawidłowe dokumenty przewozowe.
+   - Załącznik nr 4: dodatkowy wykaz naruszeń i kar (inne kategorie
+     podmiotów uczestniczących w przewozie).
+
+--- PRZYKŁADOWE KARY ZA PRZEŁADOWANIE (załącznik nr 3, DMC pojazdu
+    3,5-12 t) - orientacyjnie wg wtórnych źródeł branżowych, DO
+    WERYFIKACJI z aktualnym tekstem załącznika:
+   - przekroczenie DMC < 5%: 500 zł
+   - przekroczenie DMC 5-15%: 1 000 zł
+   - przekroczenie DMC 15-25%: 2 000 zł
+   - przekroczenie DMC >= 25%: 5 000 zł
+   Dla pojazdów o DMC powyżej 12 t: kary od ok. 1 000 zł do 10 000 zł
+   w zależności od stopnia przeciążenia.
+   (Odpowiedzialność za przeładowanie może przejść na nadawcę/załadowcę/
+   spedytora, jeśli przewoźnik udowodni brak wiedzy/zgody na
+   przeładowanie - patrz Prawo_przewozowe.txt, art. 43).
+
+--- INNE KLUCZOWE OBOWIĄZKI USTAWY (poza karami) ---
+- Licencja na wykonywanie zawodu przewoźnika drogowego / licencja
+  wspólnotowa - warunek podjęcia działalności.
+- Wymogi wobec zarządzającego transportem (osoba, o której mowa w
+  art. 7c) - odpowiedzialność za organizację i nadzór nad zgodnością
+  z przepisami.
+- Art. 15 ust. 3 pkt 2: rażące lub wielokrotne naruszanie limitów DMC
+  (i innych obowiązków) może skutkować COFNIĘCIEM LICENCJI transportowej
+  - to sankcja dodatkowa, niezależna od kary pieniężnej.
+- Inspektor ITD nakłada i pobiera kary w drodze DECYZJI ADMINISTRACYJNEJ,
+  na podstawie: ustawy o transporcie drogowym, ustawy o przewozie
+  towarów niebezpiecznych, Prawa o ruchu drogowym, ustawy o drogach
+  publicznych.
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+Przy pytaniu o konkretną kwotę kary: (1) zidentyfikuj kategorię
+naruszenia (kierowca vs podmiot/przewoźnik), (2) zidentyfikuj właściwy
+załącznik (1-4), (3) podaj widełki znane z tego pliku Z ZASTRZEŻENIEM,
+że są to dane orientacyjne wymagające potwierdzenia w aktualnym
+tekście jednolitym (stawki zmieniają się co roku, czasem kilka razy w
+roku), (4) w sprawach o wysokim ryzyku finansowym (>10 000 zł) zalecaj
+kontakt z doradcą prawnym / radcą prawnym specjalizującym się w prawie
+transportowym.

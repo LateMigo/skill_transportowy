@@ -1,0 +1,92 @@
+﻿========================================================================
+ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY (UE) NR 165/2014
+z dnia 4 lutego 2014 r. w sprawie tachografów stosowanych w transporcie
+drogowym (uchyla rozp. EWG 3821/85), zmienione m.in. rozp. (UE) 2020/1054
+Stan na dzień aktualizacji pliku: 19.08.2026
+Źródła: https://eur-lex.europa.eu/PL/legal-content/summary/driving-time-and-rest-periods-in-the-road-transport-sector.html
+        https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=LEGISSUM:320203_1
+        Rozporządzenie wykonawcze Komisji (UE) 2016/799 (specyfikacja
+        techniczna tachografu inteligentnego)
+========================================================================
+
+UWAGA DLA MODELU AI: harmonogram wdrożenia tachografów inteligentnych
+2. generacji (G2V2) jest jednym z najbardziej "ruchomych" tematów w
+transporcie w 2025/2026 - terminy były kilkukrotnie precyzowane w
+komunikatach KE i GITD. Poniższe daty są potwierdzone z kilku niezależnych
+źródeł (stan sierpień 2026), ale przy odpowiedzi na pytanie o konkretny
+termin ZAWSZE zweryfikuj świeżym wyszukiwaniem, czy nie pojawił się nowy
+komunikat KE/GITD/BALM.
+
+--- OBOWIĄZEK MONTAŻU TACHOGRAFU - PODSTAWOWA ZASADA (art. 3 w zw. z
+    rozp. 561/2006 art. 2-3) ---
+Tachograf obowiązkowy w pojazdach:
+a) o dopuszczalnej masie całkowitej (łącznie z przyczepą/naczepą)
+   powyżej 3,5 tony, używanych zarobkowo do przewozu rzeczy,
+b) przystosowanych do przewozu więcej niż 9 osób (łącznie z kierowcą),
+c) OD 1 LIPCA 2026 r. - również pojazdy o DMC od 2,5 t do 3,5 t
+   (łącznie z przyczepą/naczepą), gdy wykonują MIĘDZYNARODOWY zarobkowy
+   przewóz rzeczy lub KABOTAŻ. Dotyczy to ok. 40 tys. pojazdów
+   dostawczych (busów) w Polsce. Przewozy wyłącznie krajowe pojazdami
+   do 3,5 t nadal NIE są objęte tym obowiązkiem.
+
+--- HARMONOGRAM WDROŻENIA TACHOGRAFU INTELIGENTNEGO GEN. 2 (G2V2) ---
+- Od 15 czerwca 2019 r.: nowo rejestrowane pojazdy - tachograf
+  inteligentny 1. generacji (G1/Smart Tacho v1, moduł GNSS).
+- Od 21 sierpnia 2023 r.: wszystkie nowo rejestrowane pojazdy powyżej
+  3,5 t - obowiązkowy tachograf inteligentny 2. generacji (G2V2).
+- Do 31 grudnia 2024 r.: wymiana tachografów analogowych i cyfrowych
+  1. generacji na G2V2 w pojazdach wykonujących transport międzynarodowy
+  powyżej 3,5 t.
+- Do 18/19 sierpnia 2025 r.: wymiana tachografów inteligentnych
+  1. generacji (G2V1) na G2V2 w transporcie międzynarodowym. Od tej
+  daty do ruchu międzynarodowego w UE dopuszczone są WYŁĄCZNIE pojazdy
+  z tachografem 2. generacji.
+- OD 1 LIPCA 2026 r.: obowiązek montażu tachografu G2V2 obejmuje
+  pojazdy 2,5-3,5 t DMC w transporcie międzynarodowym/kabotażu (patrz
+  wyżej). Obowiązek ten JUŻ OBOWIĄZUJE. Polska stosowała okres
+  przejściowy 01.01.-28.02.2025 z kontrolami edukacyjnymi bez kar
+  finansowych dla wcześniejszego etapu wdrożenia, ale DLA BUSÓW
+  2,5-3,5 t ANALOGICZNEGO OKRESU PRZEJŚCIOWEGO NIE OGŁOSZONO - wg
+  komunikatów GITD kontrole po 1 lipca 2026 r. prowadzone są bez taryfy
+  ulgowej, z pełnymi sankcjami od pierwszego dnia (kara za brak
+  wymaganego tachografu: 12 000 zł).
+
+--- FUNKCJE TACHOGRAFU INTELIGENTNEGO 2. GENERACJI ---
+- moduł GNSS - automatyczna rejestracja pozycji pojazdu, w tym miejsc
+  przekraczania granic państwowych oraz miejsc załadunku/rozładunku,
+- komunikacja DSRC (5795-5805 MHz) - zdalny odczyt wybranych parametrów
+  (tzw. RTM - Remote Tachograph Monitoring) przez służby kontrolne bez
+  zatrzymywania pojazdu; od 19 sierpnia 2024 r. wszystkie inspekcje
+  transportu w UE muszą być wyposażone w urządzenia do takiego odczytu,
+- G2V2 pozwala na odczyt 25 parametrów RTM (G1: 19 parametrów),
+- karta kierowcy przechowuje dane min. 28 dni.
+
+--- OBOWIĄZKI KIEROWCY I PRZEDSIĘBIORSTWA ---
+- Kierowca wkłada kartę kierowcy do tachografu przed rozpoczęciem jazdy,
+  weryfikuje dane (kraj rozpoczęcia pracy, ewentualne ręczne wpisy
+  aktywności), przy załodze dwuosobowej używa obu slotów.
+- Przedsiębiorstwo przechowuje dane z tachografu (wykresówki/pliki
+  cyfrowe) i wydruki zgodnie z wymaganym okresem archiwizacji (co do
+  zasady min. 1 rok, do zweryfikowania z aktualnym stanem prawnym dla
+  konkretnego przypadku).
+- Homologacja typu tachografu, czujnika ruchu, karty i wykresówki -
+  udzielana przez właściwy organ krajowy na podstawie art. 12-13
+  rozporządzenia.
+
+--- KONTROLA I KARY (odesłanie) ---
+Naruszenia dot. tachografu (brak karty, manipulacja, brak kalibracji,
+przekroczenie terminu wymiany na G2V2 itd.) są karane na podstawie
+załączników do Ustawy o transporcie drogowym (patrz
+Ustawa_o_transporcie_drogowym.txt) - manipulacja/oszustwo tachografu
+należy do kategorii "najpoważniejszych naruszeń" (NIN) z najwyższymi
+stawkami kar i ryzykiem utraty dobrej reputacji przewoźnika.
+W Niemczech (BALM) kary za brak G2V2 w busach 2,5-3,5t mogą sięgać do
+1500 EUR za kontrolę plus unieruchomienie pojazdu na granicy oraz
+ryzyko cofnięcia zezwoleń transportowych - inne kraje UE mogą mieć
+odmienne stawki, do zweryfikowania per kraj kontroli.
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+Zawsze pytaj / doprecyzuj: (1) DMC pojazdu (poniżej/powyżej 2,5t, 3,5t),
+(2) czy transport jest krajowy czy międzynarodowy/kabotażowy, (3) aktualna
+data względem 1 lipca 2026 - to determinuje, czy obowiązek tachografu
+G2V2 już obowiązuje dany pojazd.

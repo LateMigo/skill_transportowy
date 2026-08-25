@@ -1,0 +1,122 @@
+﻿========================================================================
+USTAWA z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym
+(w zakresie istotnym dla transportu drogowego towarowego)
+Stan na dzień aktualizacji pliku: 19.08.2026
+Źródła: https://przepisy.gofin.pl/przepisy,3,9,9,241,443395 (Dział Vb -
+        Kary pieniężne)
+        https://lexlege.pl/prawo-o-ruchu-drogowym/art-140ab/ (aktualna
+        treść art. 140ab - wysokość kar za pojazd nienormatywny)
+        https://prawnicytransportu.pl/nowa-wysokosc-kar-za-przekroczenie-wymiarow-masy-lub-naciskow/
+        branżowe opracowania prawnicze (TC Kancelaria, Translawyers,
+        Infinitiis, KT Legaltrans) - stan na 2026 r.
+========================================================================
+
+UWAGA DLA MODELU AI: Kwoty kar za przeciążenie pojazdu / nacisk osi w
+praktyce funkcjonują "na styku" dwóch aktów - Prawa o ruchu drogowym
+(podstawa odpowiedzialności, definicje, art. 61, 130a, 140m i nast.) oraz
+załączników do Ustawy o transporcie drogowym (konkretne stawki, zał. nr
+2 i 3). Traktuj oba pliki łącznie przy analizie tego tematu.
+
+--- DEFINICJA DMC (art. 2 pkt 40) ---
+Dopuszczalna masa całkowita (DMC) = maksymalna masa pojazdu lub zespołu
+pojazdów wraz z ładunkiem, określona przez producenta jako dopuszczona
+do ruchu (wpisana w dowodzie rejestracyjnym, rubryka F.2, ew. F.1).
+
+--- ZAKAZ PRZEŁADOWANIA (art. 61 ust. 1) ---
+Ładunek na pojeździe nie może powodować przekroczenia dopuszczalnej
+masy całkowitej pojazdu (zespołu pojazdów) ani dopuszczalnych nacisków
+osi określonych w przepisach o ruchu drogowym.
+
+--- ODPOWIEDZIALNOŚĆ KIEROWCY (art. 97 Kodeksu wykroczeń w zw. z art. 61
+    ust. 1 p.r.d.) ---
+- Pojazdy do 3,5 t DMC (busy/dostawcze): mandat karny dla kierowcy,
+  maksymalnie do 3 000 zł (Kodeks wykroczeń).
+- Pojazdy powyżej 3,5 t: kierowca może otrzymać mandat do 500 zł, JEŚLI
+  przewoźnik wykaże, że wina za przeładowanie leży wyłącznie po stronie
+  kierowcy. Co do zasady jednak samo przeładowanie NIE generuje punktów
+  karnych - punkty (do 15) mogą zostać naliczone tylko, gdy przekroczenie
+  DMC stwarza realne zagrożenie bezpieczeństwa (np. wydłużona droga
+  hamowania, przesunięcie środka ciężkości grożące przewróceniem).
+
+--- ODPOWIEDZIALNOŚĆ PODMIOTU/PRZEWOŹNIKA (kary administracyjne, zał.
+    nr 3 do Ustawy o transporcie drogowym) - orientacyjne stawki wg
+    opracowań branżowych, DO WERYFIKACJI z aktualnym tekstem: ---
+Pojazdy o DMC 3,5-12 t, przekroczenie DMC:
+   < 5%: 500 zł | 5-15%: 1 000 zł | 15-25%: 2 000 zł | >= 25%: 5 000 zł
+Pojazdy o DMC powyżej 12 t: od ok. 1 000 zł do 10 000 zł w zależności
+   od stopnia przeładowania.
+Pojazdy 2,5-3,5 t DMC (busy pasażerskie) - odrębna, niższa skala -
+   zweryfikować dokładne progi w aktualnym załączniku.
+
+--- PRZEKROCZENIE NACISKU OSI NAPĘDOWEJ (stawki obowiązujące od
+    13 marca 2021 r., bez zmian na 19.08.2026 r.) ---
+- 3 000 zł - przekroczenie dopuszczalnego nacisku osi napędowej do 10%
+- 6 000 zł - przekroczenie 10-20%
+- 10 000 zł - przekroczenie powyżej 20%
+Karę pieniężną nakłada się nie tylko na podmiot wykonujący przewóz, ale
+też - jeśli miały wpływ na powstanie naruszenia - na załadowcę, nadawcę,
+odbiorcę lub spedytora (art. 140aa ust. 3 p.r.d.). Postępowania nie
+wszczyna się wobec przewoźnika, który dochował należytej staranności.
+
+--- KARY Z ART. 140ab P.R.D. (przejazd pojazdu nienormatywnego bez
+    zezwolenia lub niezgodnie z zezwoleniem) - pełna skala ---
+- 500 zł - brak zezwolenia kategorii I.
+- 5 000 zł - brak zezwolenia kategorii II-IV.
+- Brak zezwolenia kategorii V (nacisk osi, rzeczywista masa całkowita
+  lub wymiary pojazdu przekraczają wartości dopuszczalne):
+  * 6 000 zł - przekroczenie nie więcej niż o 10%,
+  * 10 000 zł - przekroczenie powyżej 10% i nie więcej niż o 20%,
+  * 15 000 zł - w pozostałych przypadkach (powyżej 20%).
+  UWAGA: górna stawka to 15 000 zł, NIE 20 000 zł - wcześniejsza wersja
+  tego pliku podawała błędnie 20 000 zł.
+- 2 000 zł - niedotrzymanie warunków przejazdu określonych dla
+  zezwolenia kategorii V.
+- Przejazd przez obiekt mostowy/wiadukt: 5 000 zł - bez potwierdzonego
+  zgłoszenia zarządcy drogi, 3 000 zł - niezgodnie z warunkami zarządcy,
+  6 000 zł - mimo udokumentowanego sprzeciwu zarządcy.
+- Pilotowanie: 3 000 zł - niewystarczająca liczba pojazdów pilotujących,
+  2 000 zł - brak wymaganego wyposażenia/oznakowania pilota, 2 000 zł -
+  brak wymaganego przeszkolenia pilota.
+
+--- ŚRODKI ADMINISTRACYJNE NIEZALEŻNE OD KARY PIENIĘŻNEJ ---
+- Art. 130a ust. 1 pkt 3: pojazd przekraczający dopuszczalne wymiary,
+  DMC lub nacisk osi PODLEGA USUNIĘCIU z drogi na koszt właściciela.
+- Kontrolujący ma prawo NIE DOPUŚCIĆ pojazdu do dalszej jazdy do czasu
+  usunięcia przyczyny (rozładunek nadwyżki ładunku / przeładunek na
+  inny pojazd).
+- Rażące lub wielokrotne naruszanie limitów DMC może skutkować cofnięciem
+  licencji transportowej (art. 15 ust. 3 pkt 2 Ustawy o transporcie
+  drogowym).
+
+--- OBOWIĄZKI NADAWCY/ZAŁADOWCY (powiązanie z Prawem przewozowym) ---
+Jeżeli umowa lub przepis szczególny nie stanowią inaczej, czynności
+ładunkowe (w tym sprawdzenie, czy pojazd nie jest przeciążony) należą
+do obowiązków nadawcy lub odbiorcy (art. 43 Prawa przewozowego - patrz
+plik Prawo_przewozowe.txt). Przewoźnik może uwolnić się od
+odpowiedzialności administracyjnej, jeśli wykaże brak wiedzy lub zgody
+na przeładowanie - ale wymaga to solidnej dokumentacji (protokoły
+ważenia, zapisy w liście przewozowym/zleceniu), nie samego oświadczenia.
+
+--- OGRANICZENIA RUCHU CIĘŻARÓWEK (stan na 19.08.2026 r.) ---
+To DWA ODRĘBNE naruszenia o różnych stawkach - nie myl ich:
+1) ZAKAZ WYPRZEDZANIA (art. 24 p.r.d., obowiązuje od 1 lipca 2023 r.) -
+   dotyczy pojazdów kategorii N2 (3,5-12 t) i N3 (powyżej 12 t) oraz
+   zespołów dłuższych niż 7 m, na autostradach i drogach ekspresowych
+   mających tylko dwa pasy ruchu w danym kierunku.
+   Mandat dla kierowcy: 1 000 zł i 8 punktów karnych; w recydywie (to
+   samo wykroczenie w ciągu 2 lat) 2 000 zł i do 15 punktów karnych.
+2) OKRESOWE ZAKAZY RUCHU (weekendy, wakacje, święta) dla pojazdów
+   powyżej 12 t DMC: mandat dla kierowcy 200-500 zł, kara dla
+   przewoźnika 2 000 zł, grzywna dla zarządzającego transportem 1 000 zł.
+PLANOWANA ZMIANA (NIE obowiązuje): Ministerstwo Infrastruktury pracuje
+nad nowelizacją art. 24 p.r.d. dopuszczającą wyprzedzanie przez
+ciężarówki w oknie nocnym 23:00-5:00. Na 19.08.2026 r. projekt nie
+został uchwalony - zakaz obowiązuje całą dobę.
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+Przy pytaniach o kary za przeładowanie zawsze pytaj o: (1) DMC pojazdu
+(przedział), (2) stopień przekroczenia w %, (3) czy naruszenie dotyczy
+DMC całego pojazdu czy nacisku pojedynczej osi (różne podstawy prawne
+i stawki). Zawsze zaznacz, że są to dane orientacyjne z wtórnych źródeł
+branżowych i zalecaj potwierdzenie w aktualnym załączniku nr 2/3 do
+Ustawy o transporcie drogowym przy realnej sprawie z wysoką stawką.

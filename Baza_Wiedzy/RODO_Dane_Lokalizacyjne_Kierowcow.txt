@@ -1,0 +1,137 @@
+========================================================================
+RODO / GDPR - DANE LOKALIZACYJNE KIEROWCÓW (TACHOGRAF GNSS, GPS FLOTOWY,
+SENT)
+Rozporządzenie (UE) 2016/679 (RODO) + polska ustawa o ochronie danych
+osobowych z 10.05.2018 + Kodeks pracy art. 22(3) (monitoring pracownika)
+Stan na dzień aktualizacji pliku: 20.08.2026
+Źródła: flotman.pl, przewodnikporodo.pl, navifleet.pl, web-sat.pl,
+        nowydostawczy.pl, naszraciborz.pl, solidgroup.pl, prawowpracy.pl,
+        prawodlabiznesu.eu, ikol.pl, odo24.pl, moniti.app, fmsolutions.pl,
+        infor.pl
+========================================================================
+
+UWAGA DLA MODELU AI: Temat często pomijany w compliance transportowym,
+a coraz częściej sprawdzany przy kontrolach PIP i skargach do UODO -
+zwłaszcza że tachografy G2V2 (patrz Rozporzadzenie_165_2014.txt) i
+system SENT (patrz Ustawa_SENT.txt) zbierają dane geolokalizacyjne
+kierowcy niemal w czasie rzeczywistym, co RODO wprost kwalifikuje jako
+dane osobowe.
+
+--- CZY MONITORING GPS/LOKALIZACYJNY JEST LEGALNY ---
+TAK - monitoring GPS pojazdu służbowego (w tym dane z tachografu
+inteligentnego i systemu SENT) jest w pełni legalny w Polsce, POD
+WARUNKIEM spełnienia wymogów Kodeksu pracy (art. 22(3), przepisy o
+monitoringu wprowadzone wraz z RODO w 2018 r.) oraz samego RODO.
+Legalność NIE oznacza dowolności - wymaga: jasno określonego celu,
+właściwej podstawy prawnej i odpowiedniego poinformowania kierowców
+PRZED uruchomieniem monitoringu.
+
+--- PODSTAWA PRAWNA PRZETWARZANIA ---
+Standardowa i najczęściej stosowana podstawa: PRAWNIE UZASADNIONY
+INTERES ADMINISTRATORA (art. 6 ust. 1 lit. f RODO) - NIE zgoda
+pracownika. Zgoda pracownika jako podstawa jest w tym kontekście
+PROBLEMATYCZNA i odradzana przez ekspertów RODO oraz orzecznictwo
+organów ochrony danych (np. austriacki DSB, decyzja z 8.08.2018 r.):
+relacja pracownik-pracodawca jest z natury nierówna, więc "zgoda" na
+monitoring mogłaby zostać podważona jako niewyrażona dobrowolnie.
+Kodeks pracy dopuszcza monitoring, gdy jest NIEZBĘDNY do: zapewnienia
+bezpieczeństwa pracowników, ochrony mienia (pojazdu i ładunku), kontroli
+wykonywania obowiązków związanych z użytkowaniem pojazdu, lub
+zachowania w tajemnicy informacji, których ujawnienie mogłoby narazić
+pracodawcę na szkodę.
+WYJĄTEK: jeśli monitoring miałby obejmować także PRYWATNE użycie
+pojazdu (poza godzinami pracy), wtedy WYMAGANA jest wyraźna,
+dobrowolna ZGODA pracownika na przetwarzanie danych z tego okresu -
+i pracodawca musi to przewidzieć w regulaminie użytkowania pojazdu
+służbowego.
+
+--- OBOWIĄZEK INFORMACYJNY (art. 13 RODO + art. 22(3) §7 k.p.) ---
+- Pracownik MUSI być poinformowany o wprowadzeniu monitoringu NIE
+  PÓŹNIEJ niż 2 TYGODNIE przed jego rozpoczęciem (dla już zatrudnionych
+  kierowców) - dla nowo zatrudnianych: przed powierzeniem pojazdu
+  wyposażonego w system monitoringu.
+- Informacja musi być przekazana w formie PISEMNEJ (np. obwieszczenie z
+  protokołem) i obejmować m.in.: administratora danych (kto przetwarza),
+  cel i zakres monitoringu, okres przechowywania danych, prawa
+  pracownika (dostęp, sprostowanie, usunięcie danych).
+- Cele, zakres i sposób monitoringu MUSZĄ zostać opisane w REGULAMINIE
+  PRACY, UKŁADZIE ZBIOROWYM lub OBWIESZCZENIU (jeśli pracodawca nie ma
+  regulaminu/układu zbiorowego).
+- Dodatkowo: obowiązek OZNAKOWANIA pojazdu (widoczny symbol/piktogram
+  informujący o urządzeniu monitorującym) - najpóźniej dzień przed
+  uruchomieniem monitoringu.
+
+--- ZASADA MINIMALIZACJI DANYCH ---
+Rejestrowane dane muszą MIEŚCIĆ SIĘ w celu, w jakim monitoring został
+wprowadzony - cel określony w dokumentacji (regulamin/obwieszczenie)
+musi być RZECZYWIŚCIE zgodny z faktycznie rejestrowanymi danymi.
+PRZYKŁAD NARUSZENIA: monitoring wprowadzony formalnie "dla bezpieczeństwa
+mienia", ale w praktyce wykorzystywany do prowadzenia pełnej ewidencji
+obecności/dyscypliny pracy - niedopuszczalne bez odrębnego celu i
+podstawy.
+Dobra praktyka: tryb "jazdy prywatnej"/"tryb prywatny" w aplikacji GPS,
+pozwalający kierowcy jednym przyciskiem wyłączyć rejestrację lokalizacji
+poza godzinami pracy - rozwiązuje praktycznie dylemat prywatność-kontrola.
+
+--- OCENA SKUTKÓW DLA OCHRONY DANYCH (DPIA, art. 35 RODO) ---
+Gdy monitoring GPS wiąże się z SYSTEMATYCZNYM i REGULARNYM
+monitorowaniem osób na szerszą skalę (typowe dla floty transportowej z
+wieloma kierowcami), PRZEPROWADZENIE I UDOKUMENTOWANIE oceny skutków
+dla ochrony danych (DPIA) MOŻE BYĆ OBOWIĄZKOWE. Prezes UODO w komunikacie
+z 17 czerwca 2019 r. wprost wskazał przetwarzanie danych lokalizacyjnych
+pracowników jako rodzaj operacji potencjalnie wymagającej takiej oceny.
+Zalecenie: firmy z większą flotą (kilkunastu+ kierowców) powinny
+przeprowadzić i udokumentować DPIA, nawet jeśli formalnie próg
+"wysokiego ryzyka" bywa dyskusyjny w konkretnym przypadku.
+
+--- CZY WYMAGANA JEST REJESTRACJA SYSTEMU W UODO ---
+NIE - od wejścia w życie RODO (25.05.2018) NIE MA obowiązku
+rejestrowania zbiorów danych ani systemów monitoringu w Urzędzie Ochrony
+Danych Osobowych. Obowiązki administratora dotyczą dokumentacji
+WEWNĘTRZNEJ (rejestr czynności przetwarzania, klauzula informacyjna,
+zapisy regulaminowe) - nie zgłoszenia zewnętrznego.
+
+--- OKRES PRZECHOWYWANIA DANYCH ---
+Dane muszą być przechowywane WYŁĄCZNIE przez okres NIEZBĘDNY do
+realizacji celu monitoringu, po czym MUSZĄ zostać usunięte (zasada
+ograniczenia przechowywania, art. 5 ust. 1 lit. e RODO). Dla danych
+tachografu obowiązują ODRĘBNE, szczegółowe okresy archiwizacji wynikające
+z rozp. 165/2014 i przepisów o czasie pracy kierowców (patrz
+Rozporzadzenie_165_2014.txt i Ustawa_o_czasie_pracy_kierowcow.txt) -
+te dwa reżimy (RODO i archiwizacja tachograficzna) trzeba stosować
+łącznie, nie zamiennie: dane tachografu przechowuje się tak długo, jak
+wymaga tego prawo transportowe, ale poza tym okresem obowiązuje zasada
+minimalizacji z RODO.
+
+--- SANKCJE ZA NARUSZENIE ---
+- Prezes UODO może nałożyć karę administracyjną DO 20 MILIONÓW EURO LUB
+  4% ROCZNEGO OBROTU przedsiębiorstwa - w zależności od tego, która
+  kwota jest wyższa (standardowy górny pułap sankcji RODO, art. 83
+  RODO).
+- Możliwe też sankcje niepieniężne: częściowy lub CAŁKOWITY ZAKAZ
+  PRZETWARZANIA danych osobowych - dla firmy TSL, której działalność w
+  dużej mierze opiera się na monitoringu floty, taki zakaz może
+  praktycznie UNIEMOŻLIWIĆ prawidłowe funkcjonowanie.
+- W 2023 r. UODO wydał kilkanaście decyzji nakładających kary na
+  pracodawców za niedopełnienie obowiązków informacyjnych przy
+  wdrażaniu monitoringu pracowników - to aktywnie egzekwowany obszar,
+  nie tylko teoretyczne ryzyko.
+
+--- POWIĄZANIE Z INNYMI AKTAMI ---
+- Źródła danych lokalizacyjnych w transporcie: tachograf inteligentny
+  G2V2 (patrz Rozporzadzenie_165_2014.txt) oraz geolokalizacja
+  wymagana przy przewozach objętych SENT (patrz Ustawa_SENT.txt).
+- Ewidencja czasu pracy kierowcy (częściowo oparta na danych z
+  tachografu) - patrz Ustawa_o_czasie_pracy_kierowcow.txt.
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+(1) Przy każdym pytaniu o wdrożenie/używanie monitoringu GPS lub
+tachografu, zawsze przypominaj o DWÓCH osobnych obowiązkach: (a)
+obowiązku informacyjnym wobec kierowców z 2-tygodniowym wyprzedzeniem,
+(b) właściwej podstawie prawnej (prawnie uzasadniony interes, nie
+zgoda, chyba że dotyczy użytku prywatnego).
+(2) Nigdy nie sugeruj, że zgoda pracownika jest "bezpieczniejszą" lub
+"pewniejszą" podstawą niż uzasadniony interes - w kontekście
+pracowniczym jest odwrotnie, zgoda bywa kwestionowana jako niedobrowolna.
+(3) Dla firm z większą flotą zawsze wspominaj o możliwym obowiązku DPIA
+- to często pomijany krok przy wdrażaniu systemów flotowych.

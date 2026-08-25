@@ -1,0 +1,144 @@
+﻿========================================================================
+USTAWA z dnia 9 marca 2017 r. o systemie monitorowania drogowego i
+kolejowego przewozu towarów oraz obrotu paliwami opałowymi ("Ustawa
+SENT")
+Stan na dzień aktualizacji pliku: 19.08.2026
+Źródła: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001218
+        (tekst jednolity ustawy)
+        https://www.gov.pl/web/kas/zmiany-w-systemie-sent-od-17-marca-2026-r
+        https://www.gov.pl/web/finanse/zmiany-w-sent-dla-branzy-odziezowej-i-obuwniczej-nowe-przepisy-od-20-czerwca-2026-r
+        (rozporządzenia MFiG z 18.06.2026 r. - Dz.U. 2026 poz. 813 i 814)
+        https://puesc.gov.pl
+        infor.pl, globkurier.pl, kpmg.com, deloitte.com, crido.pl,
+        prawnicytransportu.pl - opracowania podatkowe/branżowe, stan 2026
+========================================================================
+
+UWAGA DLA MODELU AI - KRYTYCZNE: SENT to jeden z NAJCZĘŚCIEJ
+NOWELIZOWANYCH aktów w tym zestawie - w 2025/2026 doszło do istotnego
+rozszerzenia katalogu towarów (odzież, obuwie) i kilkukrotnej zmiany
+progów w krótkim czasie (marzec 2026 -> czerwiec 2026). ZAWSZE przy
+pytaniu o obowiązek zgłoszenia konkretnego towaru zalecaj weryfikację
+aktualnej listy towarów na PUESC (link niżej), bo ta lista i progi
+zmieniają się częściej niż inne akty w tym zestawie.
+
+--- CEL I PODSTAWA DZIAŁANIA SYSTEMU ---
+SENT (System Elektronicznego Nadzoru Transportu) - narzędzie Krajowej
+Administracji Skarbowej (KAS) do elektronicznego monitorowania przewozu
+tzw. "towarów wrażliwych" (obarczonych podwyższonym ryzykiem nadużyć
+podatkowych, w tym wyłudzeń VAT i szarej strefy). System działa od
+18 kwietnia 2017 r. na Platformie Usług Elektronicznych
+Skarbowo-Celnych (PUESC): https://puesc.gov.pl
+
+--- KATEGORIE TOWARÓW OBJĘTYCH SENT (przykładowe, NIE wyczerpujące -
+    zawsze zweryfikuj aktualną listę na PUESC) ---
+- paliwa silnikowe, oleje, biodiesel, oleje roślinne, rozpuszczalniki,
+- alkohol etylowy skażony, susz tytoniowy, wyroby tytoniowe,
+- OD 17 MARCA 2026 r. - rozszerzenie o odzież i obuwie:
+  * dział 61 CN (odzież dziana) i dział 62 CN (odzież niedziana),
+  * odzież używana (kod CN 6309 00 00),
+  * dział 64 CN (obuwie),
+- BETON TOWAROWY NIE JEST OBJĘTY SENT (stan na 19.08.2026 r.).
+  Nowelizacja obejmująca beton towarowy i inne mieszanki na bazie spoiw
+  mineralnych (masy gotowe do wylania/rozsypania/wbudowania) została
+  przyjęta przez Radę Ministrów 11.02.2026 r. i uchwalona przez Sejm
+  15.05.2026 r., ale 2 czerwca 2026 r. PREZYDENT JĄ ZAWETOWAŁ i ustawa
+  wróciła do Sejmu. Do dnia aktualizacji tego pliku weto nie zostało
+  odrzucone (potrzebne 3/5 głosów), więc przepisy o betonie NIE WESZŁY
+  W ŻYCIE. Nie informuj klienta, że przewóz betonu podlega SENT -
+  sprawdź jedynie, czy Sejm nie odrzucił weta po tej dacie.
+  Ta sama zawetowana nowelizacja miała objąć SENT m.in. przemieszczenia
+  międzymagazynowe, zwroty i przewozy nietransakcyjne - one również NIE
+  obowiązują.
+
+--- PROGI I ZAKRES DLA ODZIEŻY/OBUWIA - STAN PO 20 CZERWCA 2026 r. ---
+Podstawa prawna: rozporządzenia Ministra Finansów i Gospodarki z dnia
+18 czerwca 2026 r. (Dz.U. 2026 poz. 813 i poz. 814), obowiązujące od
+20 czerwca 2026 r. Zastąpiły stan wprowadzony rozporządzeniem MFiG z
+10 września 2025 r. (obowiązujący od 17 marca 2026 r.).
+- PROGI OBOWIĄZUJĄCE (od 20.06.2026 r.): odzież (działy 61 i 62 CN oraz
+  odzież używana CN 6309 00 00) - powyżej 31,5 kg masy brutto przesyłki;
+  obuwie (dział 64 CN, bez części obuwia CN 6406) - powyżej 64 sztuk,
+  czyli powyżej 32 par. Przesyłka mieszana z co najmniej dwóch działów -
+  próg 31,5 kg masy brutto.
+- PROGI HISTORYCZNE (17.03.2026 - 19.06.2026 r., już NIE obowiązują):
+  odzież > 10 kg, obuwie > 20 sztuk (10 par).
+- KLUCZOWE ZAWĘŻENIE ZAKRESU (od 20.06.2026 r.): obowiązek zgłoszenia
+  odzieży i obuwia dotyczy już TYLKO przewozów w ramach IMPORTU,
+  WEWNĄTRZWSPÓLNOTOWEGO NABYCIA TOWARÓW (WNT) oraz TRANZYTU przez
+  terytorium RP. Wyłączono m.in.: sprzedaż krajową między
+  przedsiębiorcami, wewnątrzwspólnotową dostawę towarów (WDT - z jednym
+  wyjątkiem), eksport poza UE oraz przewozy stanowiące pomoc
+  humanitarną. Czysto krajowy przewóz odzieży/obuwia co do zasady NIE
+  podlega już zgłoszeniu do SENT.
+- Pozostałe wyłączenia (od 17.03.2026 r.): przewóz udokumentowany
+  fakturą VAT (papierową lub cyfrową), podmioty ze statusem AEO,
+  podmioty z umową o współdziałanie z Szefem KAS, operatorzy pocztowi w
+  zakresie przesyłek, operatorzy fulfillment ze statusem AEO lub z umową
+  o współdziałanie.
+- UWAGA: to najbardziej zmienny fragment całego zestawu - zawsze
+  zweryfikuj bieżącym wyszukiwaniem (PUESC/gov.pl), czy po 20.06.2026 r.
+  nie doszło do kolejnej zmiany progów lub zakresu.
+
+--- PROCEDURA ZGŁOSZENIA ---
+1. Podmiot zobowiązany (nadawca przy wysyłce z Polski / odbiorca przy
+   dostawie z UE lub kraju trzeciego / przewoźnik przy tranzycie przez
+   Polskę) dokonuje zgłoszenia PRZED ROZPOCZĘCIEM PRZEWOZU na PUESC.
+2. System generuje NUMER REFERENCYJNY - ważny 10 DNI. Kierowca musi
+   posiadać ten numer i dokumenty przewozowe podczas kontroli drogowej.
+3. Przewoźnik uzupełnia zgłoszenie o dane pojazdu, trasy, licencji.
+4. Wymagana aktywna GEOLOKALIZACJA (GPS) pojazdu przez cały czas
+   przewozu objętego SENT (np. aplikacja e-TOLL PL lub dedykowane
+   urządzenie OBU/ZSL).
+5. Po dostawie odbiorca ZAMYKA zgłoszenie, potwierdzając odbiór - co do
+   zasady najpóźniej następnego dnia roboczego.
+6. Każda zmiana w trasie (pojazd, naczepa, miejsce dostawy, ilość)
+   wymaga AKTUALIZACJI zgłoszenia w PUESC.
+
+--- KARY (stan wg opracowań branżowych 2026 - ZAWSZE zweryfikuj aktualny
+    tekst ustawy przed zastosowaniem w realnej sprawie) ---
+- Brak zgłoszenia przewozu towaru objętego SENT: kara 46% WARTOŚCI
+  BRUTTO niezgłoszonego towaru, NIE MNIEJ NIŻ 20 000 ZŁ - nakładana na
+  podmiot wysyłający lub odbierający.
+- Przewoźnik za niedostarczenie towaru zgodnie ze zgłoszeniem: kara do
+  100 000 zł.
+- Kierowca bez numeru referencyjnego SENT podczas kontroli: mandat
+  5 000-7 500 zł.
+- Brak aktywnej geolokalizacji / niesprawny GPS podczas przewozu objętego
+  SENT: kara dla przewoźnika 10 000 zł; dla kierowcy (brak aktywacji
+  lokalizatora) mandat 5 000-7 500 zł - usterka techniczna NIE jest
+  automatycznym usprawiedliwieniem.
+- Niewykonanie obowiązków "operacyjnych" (np. nieprzekazanie numeru
+  referencyjnego kolejnemu podmiotowi, nieprzedstawienie pojazdu do
+  kontroli na wezwanie): kara rzędu 10 000-20 000 zł (widełki zależne
+  od rodzaju naruszenia).
+- POUCZENIE ZAMIAST KARY PRZY "OCZYWISTEJ OMYŁCE" - NIE OBOWIĄZUJE.
+  Rozwiązanie to (a razem z nim: ograniczenie odstąpienia od kary z
+  uwagi na ważny interes podmiotu lub interes publiczny, nowa kara za
+  brak potwierdzenia odbioru wszystkich towarów SENT oraz skrócenie
+  terminu na potwierdzenie odbioru) było częścią nowelizacji zawetowanej
+  przez Prezydenta 2 czerwca 2026 r. Obowiązują dotychczasowe zasady
+  odstąpienia od wymierzenia kary z ustawy SENT.
+- BRAK ABOLICJI dla kar za odzież/obuwie nałożonych między 17.03.2026 a
+  19.06.2026 r., ale po zawężeniu zakresu od 20.06.2026 r. istnieją mocne
+  argumenty za umorzeniem postępowania (zasada stosowania prawa
+  względniejszego, art. 189c k.p.a., orzecznictwo WSA). Nie następuje to
+  automatycznie - przy takiej sprawie zalecaj konsultację z prawnikiem.
+
+--- WSPÓLNE Z eTOLL, ALE ODRĘBNE SYSTEMY ---
+SENT (co i dokąd wieziesz - nadzór podatkowy) i eTOLL (opłaty za
+przejazd drogami płatnymi) to dwa RÓŻNE systemy, choć mogą być
+obsługiwane przez to samo urządzenie/aplikację pokładową. Nie należy
+ich mylić przy analizie obowiązków przewoźnika.
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+(1) Zawsze pytaj o rodzaj towaru (kod CN, jeśli znany) i masę/ilość
+przesyłki - to determinuje, czy w ogóle powstaje obowiązek zgłoszenia.
+(2) Przy towarach "nowych" w systemie (odzież/obuwie od marca 2026,
+zakres zawężony od czerwca 2026) ZAWSZE zalecaj świeże wyszukiwanie
+aktualnych progów i wyłączeń na PUESC/gov.pl, bo to najbardziej zmienna
+część tego aktu w całym zestawie plików. Przy odzieży i obuwiu pytaj
+najpierw o CHARAKTER przewozu (import / WNT / tranzyt kontra krajowy /
+WDT / eksport) - to dziś przesądza o obowiązku bardziej niż sam próg.
+(3) Przypominaj o obowiązkowej aktywnej geolokalizacji przez CAŁY czas
+przewozu - to częste źródło kar "technicznych" niezależnych od
+prawidłowości samego zgłoszenia towarowego.

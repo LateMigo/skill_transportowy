@@ -1,0 +1,129 @@
+========================================================================
+OCP - UBEZPIECZENIE ODPOWIEDZIALNOŚCI CYWILNEJ PRZEWOŹNIKA
+(ubezpieczenie DOBROWOLNE - nie mylić z obowiązkowym OC pojazdu)
+Stan na dzień aktualizacji pliku: 20.08.2026
+Źródła: rankomat.pl, ubezpieczenia-magro.pl, kt-legaltrans.pl,
+        ubezpieczamy24.com, rpms.pl, agenci-online.pl, idealogistyka.pl,
+        interbroker.pl, okiemtruckera.pl, cupomat.pl, mylittlepleasures.pl
+========================================================================
+
+UWAGA DLA MODELU AI: OCP NIE JEST wymogiem ustawowym w Polsce (w
+przeciwieństwie do zwykłego OC pojazdu) - ale w praktyce rynkowej jest
+NIEZBĘDNE: większość zleceniodawców/spedytorów wymaga aktualnej polisy
+OCP jako warunku współpracy, a giełdy transportowe (np. Trans.eu) często
+wymagają jej jako warunku rejestracji. Bez OCP przewoźnik odpowiada za
+szkodę CAŁYM MAJĄTKIEM FIRMY.
+
+--- CZYM JEST I CO POKRYWA ---
+OCP chroni przewoźnika przed roszczeniami za szkody w POWIERZONYM
+ŁADUNKU (utrata, ubytek, uszkodzenie, opóźnienie dostawy) powstałe od
+momentu przyjęcia towaru do przewozu do momentu jego wydania odbiorcy -
+ALE TYLKO W GRANICACH ODPOWIEDZIALNOŚCI, którą przewoźnik i tak ponosi
+na mocy prawa (Konwencja CMR dla przewozów międzynarodowych - patrz
+Konwencja_CMR.txt, art. 17, 23; Prawo przewozowe dla przewozów krajowych
+- patrz Prawo_przewozowe.txt).
+KLUCZOWE ROZRÓŻNIENIE: OCP wymaga wykazania WINY/ODPOWIEDZIALNOŚCI
+przewoźnika (działa "w ślad za" jego odpowiedzialnością cywilną). To
+INNA konstrukcja niż ubezpieczenie CARGO (OCC) - cargo chroni sam
+ładunek NIEZALEŻNIE od winy przewoźnika (np. przy klęskach żywiołowych,
+gdy przewoźnik jest zwolniony z odpowiedzialności) i jest wykupywane
+zwykle przez nadawcę/właściciela towaru, nie przewoźnika.
+
+--- SUMA GWARANCYJNA - NAJWAŻNIEJSZY PARAMETR POLISY ---
+Suma gwarancyjna = górna granica odpowiedzialności ubezpieczyciela.
+- Powinna POKRYWAĆ CAŁKOWICIE wartość najdroższego ładunku przewożonego
+  jednym zestawem/w jednym transporcie.
+- KLUCZOWE: sprawdzić, czy suma gwarancyjna obowiązuje "na każde
+  zdarzenie z osobna" (nieredukcyjna) czy jest WSPÓLNA dla całego okresu
+  ubezpieczenia (redukcyjna - po wypłacie jednego odszkodowania
+  pozostała suma się zmniejsza, co przy kolejnej szkodzie w tym samym
+  okresie może okazać się niewystarczające).
+- Orientacyjne standardowe sumy na rynku: 50 000 / 100 000 / 200 000 EUR
+  (transport międzynarodowy), niższe dla czysto krajowego. Dla flot
+  przewożących ładunki o wartości jednostkowej powyżej 500 000 zł
+  zalecana suma co najmniej 200 000-300 000 EUR.
+
+--- LUKA MIĘDZY LIMITEM CMR/PRAWA PRZEWOZOWEGO A REALNĄ WARTOŚCIĄ
+    ŁADUNKU (kluczowy punkt styku z Konwencja_CMR.txt) ---
+Limit ustawowy CMR (8,33 SDR/kg brakującej wagi brutto, ok. 41-42 zł/kg
+przy kursach z 2025/2026) często NIE POKRYWA pełnej wartości towaru,
+zwłaszcza lekkich, drogich ładunków (elektronika, leki, kosmetyki
+luksusowe, alkohole, wyroby tytoniowe, sprzęt medyczny, tekstylia
+high-end). PRAKTYCZNA REGUŁA: jeśli wartość ładunku przekracza ok.
+41 zł/kg (przy aktualnym kursie SDR), sam limit CMR (i standardowe OCP
+oparte na tym limicie) NIE POKRYJE pełnej wartości - nadawca/właściciel
+towaru powinien wtedy sięgnąć po OSOBNE ubezpieczenie CARGO, a
+przewoźnik może rozważyć podwyższenie sumy gwarancyjnej OCP lub przyjęcie
+klauzuli art. 24 CMR (zadeklarowana wartość towaru - patrz
+Konwencja_CMR.txt) za dodatkową opłatą.
+W transporcie KRAJOWYM (Prawo przewozowe) NIE MA ustawowego limitu
+wagowego analogicznego do CMR - sufitem odpowiedzialności jest tam
+WYŁĄCZNIE suma gwarancyjna polisy OCP.
+
+--- WYŁĄCZENIA (WOWU) - CZĘSTE PUŁAPKI ---
+Standardowe polisy OCP CZĘSTO WYKLUCZAJĄ z ochrony:
+- towary szczególnie podatne na uszkodzenie: elektronika, wyroby
+  szklane, towary łatwo psujące się,
+- towary ADR (materiały niebezpieczne) - wymaga osobnej klauzuli/
+  rozszerzenia (patrz ADR_Towary_Niebezpieczne.txt),
+- przewozy wykonywane przez podwykonawców (jeśli umowa przewozu jest
+  podzlecana),
+- kradzież poza parkingiem strzeżonym (bez tzw. klauzuli postojowej),
+- niektóre kierunki geograficzne: Białoruś, Ukraina, Rosja często
+  znajdują się na liście wyłączeń terytorialnych - WYMAGA sprawdzenia
+  przy planowaniu trasy w tym kierunku.
+- szkoda przekraczająca sumę gwarancyjną - nadwyżkę pokrywa przewoźnik
+  z własnego majątku.
+Zalecane MINIMUM klauzul dla profesjonalnego przewoźnika: ochrona od
+RAŻĄCEGO NIEDBALSTWA (bez tej klauzuli ubezpieczyciel odmówi wypłaty
+przy najpoważniejszych szkodach - patrz art. 29 CMR / art. 86 Prawa
+przewozowego, gdzie rażące niedbalstwo znosi ustawowy limit
+odpowiedzialności, więc bez tej klauzuli przewoźnik zostaje bez ochrony
+akurat w najdroższych przypadkach), klauzula postojowa, nieredukcyjna
+suma gwarancyjna.
+
+--- KOSZT POLISY (orientacyjnie, 2026) ---
+- Mała firma (1-3 pojazdy, transport krajowy): ok. 600-3 500 zł/rok.
+- Transport międzynarodowy: ok. 1 000-4 000 zł/rok (szersze widełki przy
+  wyższych sumach gwarancyjnych i towarach podwyższonego ryzyka).
+Czynniki wpływające na cenę: suma gwarancyjna, zasięg terytorialny
+(kabotaż podwyższa składkę), rodzaj przewożonego towaru, liczba i rodzaj
+pojazdów, historia szkodowa (zniżki 20-30% przy czystej historii),
+wysokość franszyzy/udziału własnego (wyższy udział własny = niższa
+składka).
+
+--- LIKWIDACJA SZKODY - PROCEDURA ---
+- Bezsporną część odszkodowania ubezpieczyciel powinien wypłacić w
+  terminie 30 DNI od zgłoszenia szkody (analogicznie do art. 817 k.c.
+  / art. 14 ustawy o ubezpieczeniach obowiązkowych dla ubezpieczeń
+  obowiązkowych - OCP jako ubezpieczenie dobrowolne kieruje się co do
+  zasady OWU konkretnego ubezpieczyciela, ale rynkowo przyjęty standard
+  to również ok. 30 dni na bezsporną część).
+- Gdy sprawa wymaga oględzin/opinii rzeczoznawcy/ustalenia winy -
+  całość może się wydłużyć, ale bezsporna kwota powinna i tak trafić do
+  uprawnionego w terminie.
+- OCP NIE ZDEJMUJE z przewoźnika odpowiedzialności - jedynie OGRANICZA
+  JEJ FINANSOWY SKUTEK do sumy gwarancyjnej; różnicę (nadwyżkę ponad
+  limit CMR/sumę polisy, wyłączenia, rażące niedbalstwo poza zakresem
+  polisy) pokrywa przewoźnik z własnego majątku.
+
+--- POWIĄZANIE Z LICENCJĄ TRANSPORTOWĄ ---
+Polisa OC Zawodowej Przewoźnika Drogowego (odrębna od OCP cargo, choć
+czasem oferowana łącznie) może służyć jako uproszczone potwierdzenie
+zdolności finansowej wymaganej przez ITD przy uzyskiwaniu/utrzymywaniu
+licencji transportowej - NIE MYLIĆ tej funkcji z ochroną ładunku (OCP
+cargo).
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+(1) Przy pytaniach o "czy szkoda zostanie pokryta" zawsze sprawdź trzy
+niezależne warstwy: (a) czy przewoźnik w ogóle ponosi odpowiedzialność
+prawną za szkodę (CMR art. 17 / Prawo przewozowe), (b) czy mieści się w
+ustawowym limicie (8,33 SDR/kg lub bez limitu przy rażącym niedbalstwie),
+(c) czy mieści się w sumie gwarancyjnej i zakresie (WOWU) konkretnej
+polisy OCP - to trzy różne, niezależne "sufity" odpowiedzialności.
+(2) Zawsze odróżniaj OCP (odpowiedzialność przewoźnika, wymaga winy) od
+cargo/OCC (ochrona ładunku niezależnie od winy) - to częste pomylenie.
+(3) To ubezpieczenie NIE jest regulowane jedną ustawą o sztywnych
+stawkach - warunki wynikają z OWU konkretnego ubezpieczyciela, więc przy
+realnej sprawie zawsze odsyłaj do treści konkretnej polisy, nie do
+uśrednionych wartości rynkowych z tego pliku.

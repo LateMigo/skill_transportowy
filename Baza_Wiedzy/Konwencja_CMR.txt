@@ -1,0 +1,149 @@
+﻿========================================================================
+KONWENCJA O UMOWIE MIĘDZYNARODOWEGO PRZEWOZU DROGOWEGO TOWARÓW (CMR)
+sporządzona w Genewie dnia 19 maja 1956 r. (Dz.U. 1962 nr 49 poz. 238,
+z późn. zm. - Protokół genewski 1978 zmieniający jednostkę
+rozrachunkową na SDR)
+Polska ratyfikowała konwencję (podpisana przez stronę polską 27.04.1962)
+Stan na dzień aktualizacji pliku: 24.08.2026
+Źródła: https://api.nbp.pl/api/exchangerates/rates/a/xdr/?format=json
+        (aktualny kurs SDR/XDR - tabela A NBP; weryfikacja 24.08.2026)
+        https://nbp.pl/statystyka-i-sprawozdawczosc/kursy/tabela-a/
+        eventis.pl, radcawasilewski.pl, prawnicytransportu.pl,
+        agenci-online.pl, logistica.pl, kancelariawojtala.pl,
+        emiliakruk.com - opracowania prawnicze branżowe, stan 2025/2026
+========================================================================
+
+UWAGA DLA MODELU AI: Konwencja CMR liczy 51 artykułów. Poniżej wyciąg
+najważniejszych, praktycznych przepisów dot. odpowiedzialności
+przewoźnika i procedury reklamacyjnej - najczęstszego źródła sporów.
+Przy realnej sprawie sądowej/odszkodowawczej ZAWSZE zalecaj konsultację
+z prawnikiem specjalizującym się w prawie przewozowym/CMR - stawka SDR
+zmienia się codziennie i ma bezpośredni wpływ na kwotę roszczenia.
+
+--- ZAKRES STOSOWANIA (art. 1) ---
+Konwencja stosuje się do każdej umowy o zarobkowy przewóz drogowy
+towarów pojazdami, gdy miejsce przyjęcia towaru do przewozu i miejsce
+przewidziane dla jego dostawy, stosownie do ich oznaczenia w umowie,
+znajdują się w dwóch różnych krajach, z których przynajmniej jeden jest
+krajem umawiającym się (stroną konwencji) - niezależnie od miejsca
+zamieszkania i przynależności państwowej stron umowy.
+Konwencja NIE ma zastosowania do przewozów czysto krajowych (chyba że
+strony wyraźnie uzgodnią stosowanie CMR).
+
+--- ODPOWIEDZIALNOŚĆ PRZEWOŹNIKA (art. 17) ---
+Przewoźnik odpowiada za całkowite lub częściowe zaginięcie towaru oraz
+za jego uszkodzenie, które nastąpiło w czasie między przyjęciem towaru
+a jego wydaniem, jak również za opóźnienie dostawy.
+ODPOWIEDZIALNOŚĆ JEST DOMNIEMANA - to przewoźnik musi udowodnić brak
+winy, nie nadawca/odbiorca.
+Przewoźnik może zwolnić się z odpowiedzialności, jeśli szkoda powstała:
+- wskutek winy osoby uprawnionej (nadawcy/odbiorcy),
+- wskutek jej zlecenia (instrukcji), niewynikającego z winy przewoźnika,
+- wskutek wady własnej towaru (np. niewłaściwe opakowanie),
+- wskutek okoliczności, których przewoźnik nie mógł uniknąć i których
+  następstwom nie mógł zapobiec (siła wyższa).
+Przewoźnik NIE MOŻE powoływać się na zły stan techniczny pojazdu
+użytego do przewozu jako okoliczność zwalniającą.
+
+--- LIMIT ODPOWIEDZIALNOŚCI FINANSOWEJ (art. 23) ---
+- Ust. 1: odszkodowanie oblicza się według wartości towaru w miejscu
+  i czasie przyjęcia go do przewozu (cena giełdowa/rynkowa, w braku -
+  zwykła wartość towaru tego samego rodzaju i jakości).
+- Ust. 3: GŁÓWNY LIMIT - odszkodowanie NIE MOŻE PRZEKROCZYĆ 8,33
+  JEDNOSTKI ROZRACHUNKOWEJ (SDR - Special Drawing Rights, MFW) ZA
+  KAŻDY KILOGRAM BRAKUJĄCEJ WAGI BRUTTO towaru. Kurs SDR do PLN/EUR/USD
+  zmienia się codziennie (tabela A NBP, symbol XDR). STAN NA 24.08.2026 r.
+  (ostatnia opublikowana tabela): 1 SDR = 5,0724 zł (tabela nr
+  162/A/NBP/2026 z 21.08.2026), czyli limit 8,33 SDR odpowiada
+  ok. 42,25 ZŁ ZA KILOGRAM. Wcześniejsza wersja tego pliku podawała
+  przedział ok. 40-42 zł/kg - jest już zaniżony. ZAWSZE licz wg
+  kursu z dnia ustalania odszkodowania, a nie wg wartości podanej wyżej.
+  Przykład metody obliczenia: masa (kg) x 8,33 = kwota w SDR;
+  kwota w SDR x kurs SDR/waluta (tabela NBP z dnia ustalenia
+  odszkodowania) = kwota odszkodowania.
+- Dodatkowo przewoźnik zwraca przewoźne, cło i inne wydatki związane
+  z przewozem: w całości przy całkowitym zaginięciu, proporcjonalnie
+  przy częściowym. Inne odszkodowania (np. utracone korzyści) NIE
+  przysługują poza tymi zasadami - chyba że zastosowanie mają art. 24
+  lub 26.
+
+--- MODYFIKACJA LIMITU: ZADEKLAROWANA WARTOŚĆ (art. 24) ---
+Nadawca może, za umówioną dodatkową opłatą, zadeklarować w liście
+przewozowym wartość towaru przekraczającą limit z art. 23 ust. 3 -
+wtedy zadeklarowana kwota ZASTĘPUJE ten limit jako górna granica
+odpowiedzialności przewoźnika.
+
+--- SPECJALNY INTERES W DOSTAWIE (art. 26) ---
+Nadawca może również zadeklarować specjalny interes w dostawie na
+wypadek zaginięcia, uszkodzenia lub przekroczenia terminu dostawy -
+umożliwia to żądanie dodatkowego odszkodowania (niezależnie od tego z
+art. 23-25), ale ograniczonego do wysokości zadeklarowanej kwoty
+specjalnego interesu, i wymaga udowodnienia rzeczywistej dodatkowej
+szkody.
+
+--- UTRATA LIMITU ODPOWIEDZIALNOŚCI: WINA UMYŚLNA / RAŻĄCE NIEDBALSTWO
+    (art. 29) ---
+Przewoźnik TRACI PRAWO do powoływania się na ograniczenia odpowiedzialności
+(w tym limit 8,33 SDR/kg), jeżeli szkoda wynikła z JEGO ZŁEGO ZAMIARU
+lub NIEDBALSTWA, które według prawa obowiązującego sąd rozpatrujący
+sprawę uważane jest za równoznaczne ze złym zamiarem (tzw. rażące
+niedbalstwo). W takim wypadku przewoźnik odpowiada w PEŁNEJ WYSOKOŚCI
+szkody (strata + utracone korzyści), bez ograniczenia wagowego.
+Ta sama zasada dotyczy pracowników/agentów przewoźnika działających w
+wykonywaniu swoich funkcji.
+
+--- PROCEDURA REKLAMACYJNA - TERMINY ZGŁASZANIA ZASTRZEŻEŃ (art. 30) ---
+- Szkoda WIDOCZNA (uszkodzenie/częściowe zaginięcie widoczne przy
+  odbiorze): zastrzeżenie musi zostać zgłoszone NAJPÓŹNIEJ W CHWILI
+  WYDANIA towaru, wpisane do listu przewozowego lub w osobnym piśmie.
+  Brak zastrzeżeń przy odbiorze = domniemanie, że towar wydano zgodnie
+  z listem przewozowym (trudne do obalenia).
+- Szkoda NIEWIDOCZNA (ukryta wada ujawniona po odbiorze): zastrzeżenie
+  na piśmie w terminie 7 DNI od dnia wydania towaru, NIE WLICZAJĄC
+  niedziel i dni ustawowo wolnych od pracy.
+- OPÓŹNIENIE DOSTAWY: reklamację (pisemne zastrzeżenie) należy zgłosić
+  w terminie 21 DNI od dnia postawienia towaru do dyspozycji odbiorcy.
+Treść reklamacji powinna zawierać: opis szkody, kwotę roszczenia (jeśli
+znana, np. na podstawie faktur), dokumentację (np. fotograficzną).
+
+--- PRZEDAWNIENIE ROSZCZEŃ (art. 32) ---
+- Termin podstawowy: 1 ROK od dnia dostarczenia towaru (a przy
+  całkowitym zaginięciu - od 30. dnia po umówionym terminie dostawy;
+  przy braku umówionego terminu - od 60. dnia od przyjęcia towaru
+  przez przewoźnika).
+- Termin wydłużony do 3 LAT w przypadku złego zamiaru lub niedbalstwa
+  uważanego za równoznaczne ze złym zamiarem (rażące niedbalstwo, art.
+  29).
+
+--- OBOWIĄZKI NADAWCY DOT. DANYCH W LIŚCIE PRZEWOZOWYM (art. 7) ---
+Nadawca odpowiada za wszelkie koszty i szkody, jakie mogą wyniknąć z
+nieścisłości lub niedostateczności danych podanych w liście
+przewozowym (w tym danych o masie towaru) - istotne przy sporach o to,
+kto odpowiada za przeładowanie pojazdu (patrz też Prawo_o_ruchu_
+drogowym.txt).
+
+--- E-CMR ---
+Od 2019 r. w Polsce dopuszczony jest elektroniczny list przewozowy
+(e-CMR) na podstawie protokołu dodatkowego do konwencji CMR dotyczącego
+elektronicznego listu przewozowego (e-CMR) - do zweryfikowania przy
+konkretnym pytaniu, czy dany kraj docelowy/tranzytowy również ratyfikował
+ten protokół (nie wszystkie kraje-strony CMR go ratyfikowały).
+
+--- POWIĄZANIE Z PRAWEM KRAJOWYM ---
+W przewozie KRAJOWYM (nie CMR) analogiczne ograniczenia odpowiedzialności
+przewoźnika reguluje polska Ustawa Prawo przewozowe - patrz
+Prawo_przewozowe.txt, w szczególności art. 86 (ograniczenia
+odszkodowania nie mają zastosowania przy winie umyślnej/rażącym
+niedbalstwie przewoźnika - analogicznie do art. 29 CMR) oraz art. 77
+(przedawnienie roszczeń - 1 rok, analogicznie do art. 32 CMR).
+
+--- PRZYPOMNIENIE OPERACYJNE DLA AI ---
+Przy każdej sprawie szkodowej: (1) ustal, czy przewóz jest międzynarodowy
+(CMR) czy krajowy (Prawo przewozowe) - inne przepisy, choć bardzo
+podobna konstrukcja, (2) ustal rodzaj szkody (widoczna/ukryta/opóźnienie)
+- inny termin zgłoszenia zastrzeżeń, (3) NIGDY nie podawaj precyzyjnej
+kwoty odszkodowania bez zastrzeżenia, że wymaga to aktualnego kursu SDR
+z dnia ustalenia odszkodowania (tabela NBP) oraz realnej wagi/wartości
+towaru z dokumentów, (4) przy podejrzeniu rażącego niedbalstwa
+przewoźnika (art. 29 CMR) zalecaj kontakt z prawnikiem - stawka wtedy
+przechodzi z limitowanej na nielimitowaną.
