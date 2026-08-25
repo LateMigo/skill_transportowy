@@ -7,7 +7,7 @@
 # ==============================================================================
 
 # --- KONFIGURACJA: dostosuj tę ścieżkę do lokalizacji Twojego projektu ---
-$ProjectDir = "C:\Projekty\tsl-skill"          # <-- ZMIEŃ na realną ścieżkę
+$ProjectDir = "C:\Users\admin\tsl-skill"          # <-- ZMIEŃ na realną ścieżkę
 $LogDir     = Join-Path $ProjectDir ".kb_update_logs"
 $DateTag    = Get-Date -Format "yyyy-MM-dd_HH-mm"
 $LogFile    = Join-Path $LogDir "update_$DateTag.log"
@@ -41,6 +41,10 @@ claude -p $Prompt --dangerously-skip-permissions 2>&1 | Tee-Object -FilePath $Lo
 
 "=== Koniec aktualizacji: $(Get-Date -Format 'yyyy-MM-dd_HH-mm') ===" | Tee-Object -FilePath $LogFile -Append
 
+Get-ChildItem C:\Users\admin\tsl-skill\Baza_Wiedzy\*.txt | ForEach-Object {
+    $content = Get-Content -Encoding UTF8 -Raw $_.FullName
+    [System.IO.File]::WriteAllText($_.FullName, $content, [System.Text.UTF8Encoding]::new($true))
+}
 # Opcjonalnie: commit zmian do gita (odkomentuj, jesli projekt jest repo)
 # UWAGA: celowo NIE dodajemy tu CLAUDE.md - ten skrypt ma aktualizowac
 # wylacznie Baza_Wiedzy/, a CLAUDE.md zmieniac recznie, swiadomie.
